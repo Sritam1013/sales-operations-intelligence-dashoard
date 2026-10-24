@@ -1,0 +1,501 @@
+lead_id,contact_name,email,company,source,owner,pipeline_stage,deal_value,created_date,last_activity,status,region
+LEAD-0001,Mark Brown,markb@company.com,WavePoint Energy,Trade Show,Sarah Johnson,Contacted,33160.58,2024-10-20,2024-12-05,Active,Latin America
+LEAD-0002,Stephen Young,stephen_young@biz.co,VistaPeak Mining,Website,James Wilson,Closed Won,98178.54,2025-09-11,2025-09-25,Converted,Latin America
+LEAD-0003,Laura Moore,laura.moore@enterprise.org,Vertex Capital,Email Campaign,Sarah Johnson,Qualified,127633.14,2025-03-24,2025-08-05,Active,Europe
+LEAD-0004,Anthony Gray,anthonyg@company.com,Zephyr Aerospace,LinkedIn,Emma Davis,New Lead,170651.43,2024-12-03,2025-05-25,Active,Asia Pacific
+LEAD-0005,Daniel Ramos,daniel93@yahoo.com,LightSpeed Comm,Email Campaign,Mike Chen,Closed Won,329747.09,2025-02-05,2025-03-17,Converted,Latin America
+LEAD-0006,Nathan Jones,nathan.jones@company.com,PulseRate Health,Partner,Priya Patel,Negotiation,415334.69,2025-06-23,2025-06-29,Active,North America
+LEAD-0007,Linda Lopez,lindal@yahoo.com,Vertex Capital,Partner,James Wilson,New Lead,81697.86,2024-10-29,2024-12-19,Active,Latin America
+LEAD-0008,Sharon Robinson,sharon95@gmail.com,Zephyr Aerospace,Trade Show,Mike Chen,Proposal Sent,94518.75,2024-06-18,2024-07-10,Active,Europe
+LEAD-0009,Michael Bailey,michael57@company.com,CrestView Enterprises,Referral,Emma Davis,Contacted,393263.27,2024-07-17,2025-05-05,Inactive,Middle East
+LEAD-0010,Ronald Alvarez,ronalda@corp.net,Atlas Financial,Referral,Mike Chen,Negotiation,128751.59,2025-05-07,2025-09-25,Inactive,Latin America
+LEAD-0011,Olivia Lewis,olivial@outlook.com,RedRock Ventures,Cold Call,Emma Davis,New Lead,473474.57,2024-08-15,2025-02-09,Inactive,Middle East
+LEAD-0012,Wei Ramos,wei_ramos@biz.co,Yellowstone Data,Website,Priya Patel,Contacted,54046.15,2024-12-09,2025-02-17,Active,Middle East
+LEAD-0013,Brenda Yamamoto,byamamoto@enterprise.org,Apex Dynamics,Website,Sarah Johnson,Contacted,276658.1,2025-09-15,2025-09-18,Inactive,Europe
+LEAD-0014,Mary Ross,mary.ross@gmail.com,OceanView Properties,Partner,Emma Davis,Qualified,453047.71,2025-09-03,2025-09-23,Active,Europe
+LEAD-0015,Kenneth Hughes,khughes@company.com,NorthStar Logistics,LinkedIn,Mike Chen,Proposal Sent,335766.38,2025-06-20,2025-06-28,Inactive,Latin America
+LEAD-0016,Nathan Baker,nathan65@biz.co,,Partner,James Wilson,New Lead,189784.68,2024-01-17,2024-03-26,Active,North America
+LEAD-0017,Brenda Martin,brenda99@work.io,WavePoint Energy,Trade Show,Priya Patel,Negotiation,390675.58,2025-04-20,2025-08-20,Active,Europe
+LEAD-0018,Sharon Ross,sharon_ross@gmail.com,CloudNova Inc,Partner,Mike Chen,Closed Won,158487.56,2025-02-11,2025-07-07,Converted,Middle East
+LEAD-0019,Gregory Wilson,gregory.wilson@protonmail.com,Zephyr Aerospace,Website,Priya Patel,Contacted,221290.93,2025-02-13,2025-09-30,Inactive,Asia Pacific
+LEAD-0020,Nancy Carter,nancy_carter@enterprise.org,HyperLoop Transit,LinkedIn,Sarah Johnson,Negotiation,,2025-09-08,2025-09-13,Active,Asia Pacific
+LEAD-0021,Matthew Rivera,matthew.rivera@work.io,TerraFirma Logistics,Cold Call,Emma Davis,Negotiation,224734.65,2025-04-02,2025-05-17,Active,Middle East
+LEAD-0022,Shirley Yamamoto,shirley.yamamoto@outlook.com,ZenithWorks,LinkedIn,Emma Davis,Negotiation,476630.75,2024-05-26,2025-05-08,Active,North America
+LEAD-0023,Fatima Morgan,fatima.morgan@protonmail.com,Xenon Robotics,LinkedIn,James Wilson,Closed Lost,,2024-06-06,2024-12-03,Inactive,Middle East
+LEAD-0024,Dennis Hernandez,dennish@enterprise.org,KaleidoScope Media,Referral,Emma Davis,Contacted,142951.43,2024-04-26,2024-07-30,Active,Middle East
+LEAD-0025,Patrick Kelly,patrick.kelly@company.com,TrueNorth Advisors,Cold Call,Mike Chen,Closed Lost,458657.06,2025-05-17,2025-07-14,Inactive,North America
+LEAD-0026,Sarah Garcia,sarah.garcia@enterprise.org,TrueNorth Advisors,Cold Call,Sarah Johnson,Negotiation,493354.46,2024-12-21,2025-09-28,Active,Asia Pacific
+LEAD-0027,Justin Hernandez,jhernandez@work.io,Horizon Digital,Referral,Mike Chen,Contacted,183643.78,2025-08-09,2025-09-29,Inactive,Europe
+LEAD-0028,Betty Carter,betty.carter@outlook.com,TrueNorth Advisors,Email Campaign,James Wilson,Qualified,412553.0,2024-03-16,2025-02-03,Active,Middle East
+LEAD-0029,Janet Lee,janet60@work.io,Zephyr Aerospace,Trade Show,Emma Davis,New Lead,219146.05,2024-02-26,2025-08-09,Active,Europe
+LEAD-0030,Rebecca Bennett,rebeccab@protonmail.com,HyperLoop Transit,LinkedIn,Sarah Johnson,Contacted,277666.5,2024-05-08,2025-03-18,Active,Latin America
+LEAD-0031,Christopher Cox,ccox@yahoo.com,NorthStar Logistics,Email Campaign,Emma Davis,Contacted,25391.18,2024-01-30,2024-10-27,Active,Latin America
+LEAD-0032,Gary Lee,gary54@gmail.com,OceanView Properties,Trade Show,Priya Patel,Proposal Sent,126214.57,2025-02-19,2025-03-09,Active,Europe
+LEAD-0033,Anna Brooks,anna_brooks@enterprise.org,Vertex Capital,Trade Show,Mike Chen,Contacted,368428.88,2024-12-19,2025-02-23,Inactive,Latin America
+LEAD-0034,Jeffrey Mendoza,jeffrey.mendoza@work.io,Horizon Digital,LinkedIn,James Wilson,Contacted,148654.94,2025-01-28,2025-05-15,Active,Europe
+LEAD-0035,Joseph Robinson,joseph42@work.io,KeyStone Consulting,Cold Call,Emma Davis,Qualified,251198.29,2024-04-02,2025-09-01,Active,Europe
+LEAD-0036,Benjamin Phillips,benjamin28@work.io,,LinkedIn,James Wilson,Proposal Sent,337897.7,2024-10-19,2024-12-13,Active,Asia Pacific
+LEAD-0037,Jason Reed,jasonr@corp.net,ZenithWorks,Website,Emma Davis,Proposal Sent,147857.84,2025-01-30,2025-08-13,Active,Latin America
+LEAD-0038,Benjamin Ramirez,benjamin88@outlook.com,GlobalTech Systems,Cold Call,Priya Patel,Negotiation,469779.54,2024-05-27,2025-02-11,Active,North America
+LEAD-0039,Diane Chavez,diane.chavez@yahoo.com,EliteForce Security,Trade Show,James Wilson,New Lead,74191.59,2025-09-19,2025-09-25,Inactive,Asia Pacific
+LEAD-0040,Shirley Moore,shirleym@biz.co,IronClad Defense,Cold Call,Emma Davis,Contacted,187337.12,2024-04-22,2025-03-03,Inactive,North America
+LEAD-0041,Shirley Myers,shirley_myers@company.com,Zephyr Aerospace,Trade Show,Emma Davis,Contacted,,2025-05-06,2025-08-11,Active,Europe
+LEAD-0042,Aaron Campbell,aaron5@outlook.com,CrestView Enterprises,LinkedIn,James Wilson,New Lead,208136.82,2025-09-18,2025-09-29,Active,Europe
+LEAD-0043,Emily Rogers,erogers@biz.co,QuickSilver Trading,Cold Call,Emma Davis,Contacted,232533.45,2025-06-29,2025-08-13,Active,Asia Pacific
+LEAD-0044,Richard Khan,richard_khan@protonmail.com,RedRock Ventures,Trade Show,Priya Patel,Contacted,152319.21,2024-10-22,2025-06-29,Active,Asia Pacific
+LEAD-0045,Kenneth Chen,kennethc@company.com,RiverBend Manufacturing,Trade Show,James Wilson,Closed Won,175841.66,2024-05-29,2024-08-18,Converted,North America
+LEAD-0046,Thomas Roberts,thomas.roberts@work.io,PulseRate Health,LinkedIn,James Wilson,Contacted,139210.7,2025-07-29,2025-08-15,Active,Latin America
+LEAD-0047,Priya Ortiz,portiz@gmail.com,HyperLoop Transit,Referral,Mike Chen,New Lead,360092.24,2024-04-12,2024-08-30,Active,Latin America
+LEAD-0048,Robert Mendoza,robert_mendoza@enterprise.org,MeridianX Group,Partner,Priya Patel,Contacted,454428.79,2024-04-01,2024-11-24,Active,North America
+LEAD-0049,Jonathan Foster,jonathan_foster@yahoo.com,CloudNova Inc,Partner,James Wilson,Negotiation,375756.58,2024-10-23,2024-10-27,Active,Latin America
+LEAD-0050,Mark Nguyen,markn@company.com,PulseRate Health,Trade Show,Emma Davis,Qualified,426274.57,2025-04-24,2025-05-22,Active,Middle East
+LEAD-0051,Carlos Smith,carloss@yahoo.com,,LinkedIn,Priya Patel,Proposal Sent,91869.98,2025-02-19,2025-06-30,Active,Middle East
+LEAD-0052,Shirley Cook,shirley.cook@yahoo.com,EliteForce Security,LinkedIn,Mike Chen,New Lead,226134.08,2024-09-30,2025-03-03,Active,Latin America
+LEAD-0053,Margaret Watson,margaretw@work.io,DataStream Analytics,Email Campaign,Sarah Johnson,Qualified,344606.44,2024-11-14,2025-04-14,Active,Europe
+LEAD-0054,Ronald Martin,rmartin@enterprise.org,VistaPeak Mining,Trade Show,Priya Patel,Qualified,238059.9,2025-07-04,2025-07-31,Active,Latin America
+LEAD-0055,Carol Cooper,carol11@enterprise.org,Xenon Robotics,Website,Emma Davis,New Lead,451929.64,2024-07-26,2024-10-10,Active,Latin America
+LEAD-0056,James Kim,james.kim@protonmail.com,FusionGrid Power,Website,Emma Davis,Qualified,,2024-05-15,2025-01-03,Active,Latin America
+LEAD-0057,John Anderson,johna@gmail.com,Apex Dynamics,Email Campaign,Mike Chen,Proposal Sent,,2024-12-18,2025-09-21,Inactive,North America
+LEAD-0058,Brandon Walker,brandon.walker@company.com,Zephyr Aerospace,Referral,James Wilson,Contacted,227025.88,2025-01-21,2025-07-14,Inactive,Latin America
+LEAD-0059,Charles Hernandez,charlesh@outlook.com,IronClad Defense,Cold Call,Emma Davis,New Lead,418236.7,2024-01-24,2025-05-12,Active,Latin America
+LEAD-0060,Sarah Ross,sarah55@corp.net,Pinnacle Health,Cold Call,Priya Patel,New Lead,438228.05,2024-04-25,2025-03-29,Active,North America
+LEAD-0061,Steven Taylor,staylor@outlook.com,CloudNova Inc,Cold Call,Emma Davis,Proposal Sent,126143.4,2024-02-15,2024-10-11,Active,North America
+LEAD-0062,Kevin King,kevin18@company.com,UniCore Pharma,Trade Show,Priya Patel,Proposal Sent,410099.33,2024-08-30,2024-11-11,Inactive,Latin America
+LEAD-0063,Nathan Ramirez,nathan_ramirez@company.com,Jupiter Analytics,Trade Show,Mike Chen,Proposal Sent,250332.29,2024-12-18,2025-07-01,Active,Asia Pacific
+LEAD-0064,Stephanie Alvarez,stephanie_alvarez@corp.net,Yellowstone Data,Referral,Emma Davis,Qualified,153864.53,2024-05-27,2025-09-07,Active,Middle East
+LEAD-0065,Catherine Cruz,catherine54@biz.co,Pinnacle Health,LinkedIn,Mike Chen,Contacted,,2025-04-05,2025-04-28,Active,Europe
+LEAD-0066,Yuki Thomas,yukit@corp.net,MapleStar Retail,Website,Sarah Johnson,New Lead,363531.09,2025-07-26,2025-08-21,Inactive,Asia Pacific
+LEAD-0067,Thomas Baker,thomas.baker@protonmail.com,VistaPeak Mining,Website,James Wilson,Closed Won,353365.45,2025-02-10,2025-04-19,Converted,Latin America
+LEAD-0068,Rebecca Bennett,rebeccab@corp.net,PulseRate Health,LinkedIn,Priya Patel,Contacted,251152.26,2024-04-10,2025-08-03,Inactive,Asia Pacific
+LEAD-0069,Mary Martinez,marym@work.io,KaleidoScope Media,Partner,Mike Chen,Negotiation,,2025-07-20,2025-09-11,Active,Europe
+LEAD-0070,Jessica Robinson,jrobinson@corp.net,Pinnacle Health,Cold Call,Emma Davis,Proposal Sent,132376.75,2025-05-15,2025-09-17,Active,Asia Pacific
+LEAD-0071,David Khan,dkhan@biz.co,IronClad Defense,Email Campaign,Sarah Johnson,Qualified,41793.55,2024-02-19,2025-04-16,Active,Europe
+LEAD-0072,Jacob Scott,jscott@gmail.com,DuoTech Solutions,LinkedIn,Sarah Johnson,Proposal Sent,310177.08,2025-05-09,2025-05-13,Active,Latin America
+LEAD-0073,Jason Cooper,jason.cooper@gmail.com,RedRock Ventures,Trade Show,Priya Patel,New Lead,338646.31,2024-07-02,2024-08-20,Active,Europe
+LEAD-0074,Suki Young,suki25@biz.co,WavePoint Energy,LinkedIn,James Wilson,New Lead,232203.88,2024-09-06,2024-12-30,Active,North America
+LEAD-0075,Jose Harris,jose.harris@outlook.com,Yellowstone Data,Trade Show,James Wilson,New Lead,,2024-06-24,2025-02-01,Active,Asia Pacific
+LEAD-0076,Henry Rivera,henry.rivera@biz.co,Orbit Solutions,Referral,Emma Davis,Qualified,,2024-03-17,2024-12-29,Inactive,Latin America
+LEAD-0077,Priya Khan,priya.khan@yahoo.com,UltraVision Labs,Website,Mike Chen,Proposal Sent,357792.14,2025-02-11,2025-04-28,Active,Europe
+LEAD-0078,Betty Davis,betty_davis@biz.co,WindRose Energy,Email Campaign,Mike Chen,Negotiation,43821.71,2024-12-20,2025-04-10,Active,North America
+LEAD-0079,Gregory Singh,gregory44@corp.net,UltraVision Labs,Website,Priya Patel,Negotiation,117928.5,2025-07-20,2025-09-13,Active,Latin America
+LEAD-0080,Amy Harris,amy_harris@outlook.com,SilverLine Media,Partner,Mike Chen,Negotiation,81339.38,2024-06-06,2024-11-15,Active,North America
+LEAD-0081,Wei Moore,weim@enterprise.org,RedRock Ventures,Website,Mike Chen,New Lead,280707.59,2025-06-08,2025-06-11,Active,Latin America
+LEAD-0082,Brenda Reyes,brenda12@work.io,Apex Dynamics,LinkedIn,James Wilson,Qualified,451062.34,2024-09-05,2024-11-30,Active,Europe
+LEAD-0083,Karen Cruz,karenc@company.com,JetStream Networks,Website,Mike Chen,Qualified,244694.5,2024-03-19,2024-11-26,Active,Middle East
+LEAD-0084,Betty Miller,betty77@protonmail.com,InnoVate Corp,LinkedIn,Sarah Johnson,Closed Lost,311995.13,2024-12-03,2025-04-01,Inactive,Asia Pacific
+LEAD-0085,Patricia Lopez,patricia56@yahoo.com,MapleStar Retail,Email Campaign,Mike Chen,Qualified,202128.59,2024-11-22,2025-07-31,Inactive,Europe
+LEAD-0086,Jacob Perez,jacob_perez@company.com,ZenithWorks,LinkedIn,Sarah Johnson,Closed Lost,498646.14,2024-07-03,2024-11-27,Inactive,North America
+LEAD-0087,Anya Ramirez,anya_ramirez@protonmail.com,SilverLine Media,Partner,Sarah Johnson,Negotiation,207525.09,2025-05-26,2025-08-11,Active,Europe
+LEAD-0088,Jessica Perez,jessica_perez@corp.net,MapleStar Retail,Cold Call,Emma Davis,Qualified,460594.13,2025-03-04,2025-09-22,Inactive,Latin America
+LEAD-0089,Heather King,heather.king@outlook.com,QuickSilver Trading,Email Campaign,Priya Patel,New Lead,283794.04,2025-02-13,2025-05-08,Inactive,Middle East
+LEAD-0090,Carlos Torres,carlos.torres@outlook.com,GreenLeaf Biotech,Email Campaign,Emma Davis,Qualified,114410.71,2025-01-18,2025-04-05,Active,North America
+LEAD-0091,Leo Martin,leo.martin@company.com,Falcon Industries,Website,Mike Chen,Contacted,393213.65,2025-06-17,2025-08-16,Active,Middle East
+LEAD-0092,Sharon Davis,sharon.davis@company.com,,Email Campaign,Sarah Johnson,New Lead,59134.53,2024-06-17,2025-07-01,Active,Europe
+LEAD-0093,Jessica Myers,jmyers@work.io,DuoTech Solutions,Referral,James Wilson,Proposal Sent,330367.42,2025-02-09,2025-03-31,Active,Middle East
+LEAD-0094,Richard Howard,richard.howard@protonmail.com,WindRose Energy,Email Campaign,Sarah Johnson,Proposal Sent,270760.06,2025-01-09,2025-08-31,Active,Middle East
+LEAD-0095,Kenneth Davis,kennethd@corp.net,LightSpeed Comm,Website,Priya Patel,Contacted,90401.12,2024-10-31,2025-08-29,Active,Europe
+LEAD-0096,Charles Weber,charles.weber@protonmail.com,Luminar Technologies,LinkedIn,Mike Chen,Qualified,73244.31,2025-01-27,2025-05-31,Active,Europe
+LEAD-0097,Sarah Gray,sgray@enterprise.org,Luminar Technologies,LinkedIn,James Wilson,Proposal Sent,476161.77,2025-05-11,2025-08-17,Inactive,Latin America
+LEAD-0098,Ruth Thomas,ruth_thomas@corp.net,Atlas Financial,Email Campaign,James Wilson,Qualified,20276.05,2024-08-13,2024-12-31,Active,Asia Pacific
+LEAD-0099,Amy Howard,amy_howard@enterprise.org,Horizon Digital,Trade Show,Sarah Johnson,Contacted,495492.34,2025-07-09,2025-07-14,Inactive,Middle East
+LEAD-0100,Charles Turner,cturner@corp.net,PulseRate Health,Partner,Mike Chen,Contacted,227617.51,2024-12-22,2025-02-04,Active,North America
+LEAD-0101,Benjamin King,bking@work.io,NorthStar Logistics,Email Campaign,James Wilson,New Lead,107276.73,2024-07-30,2025-05-17,Active,Asia Pacific
+LEAD-0102,Benjamin Walker,benjamin77@yahoo.com,TrueNorth Advisors,LinkedIn,Priya Patel,Proposal Sent,259635.42,2024-04-07,2025-06-02,Inactive,Asia Pacific
+LEAD-0103,Kimberly Bennett,kbennett@yahoo.com,TrueNorth Advisors,LinkedIn,Mike Chen,Negotiation,247282.07,2025-08-14,2025-09-23,Active,Middle East
+LEAD-0104,Fatima Green,fatima.green@corp.net,RedRock Ventures,Email Campaign,Priya Patel,Qualified,293067.99,2024-04-05,2025-07-18,Active,Asia Pacific
+LEAD-0105,Christopher Johnson,christopher9@corp.net,BlueShift Dynamics,Partner,Mike Chen,Qualified,145378.57,2025-07-14,2025-09-24,Inactive,Asia Pacific
+LEAD-0106,Betty Martinez,betty.martinez@gmail.com,DuoTech Solutions,Website,Sarah Johnson,Closed Won,230976.48,2025-03-14,2025-05-11,Converted,Europe
+LEAD-0107,Shirley Taylor,shirleyt@yahoo.com,RedRock Ventures,Website,Priya Patel,Contacted,452381.13,2024-06-18,2025-05-04,Active,Europe
+LEAD-0108,Sarah Young,sarah.young@outlook.com,,Cold Call,Sarah Johnson,New Lead,341591.45,2024-01-10,2024-12-26,Inactive,Middle East
+LEAD-0109,Kenneth Cruz,kcruz@enterprise.org,Yellowstone Data,Website,Sarah Johnson,New Lead,153131.39,2025-01-26,2025-08-06,Inactive,Europe
+LEAD-0110,Nicole Ward,nicole9@gmail.com,KeyStone Consulting,Cold Call,Priya Patel,Negotiation,79930.19,2025-02-25,2025-06-18,Inactive,North America
+LEAD-0111,Robert Bennett,rbennett@outlook.com,Yellowstone Data,LinkedIn,James Wilson,Contacted,142098.99,2024-03-27,2025-01-12,Inactive,North America
+LEAD-0112,Scott James,scottj@protonmail.com,GreenLeaf Biotech,Referral,James Wilson,Contacted,,2024-09-02,2024-10-29,Active,Latin America
+LEAD-0113,Paul King,paul10@gmail.com,UltraVision Labs,Referral,James Wilson,Closed Won,185879.17,2024-06-25,2024-10-30,Converted,North America
+LEAD-0114,Margaret Myers,margaret3@outlook.com,,Referral,Sarah Johnson,Closed Won,201997.64,2024-10-20,2025-04-05,Converted,Latin America
+LEAD-0115,Anna Torres,anna_torres@corp.net,Falcon Industries,Email Campaign,Emma Davis,Qualified,46380.55,2024-03-21,2024-10-15,Inactive,Europe
+LEAD-0116,Debra Clark,debrac@corp.net,WindRose Energy,Partner,Sarah Johnson,Contacted,476946.85,2024-09-01,2024-10-15,Inactive,North America
+LEAD-0117,Shirley Cook,shirley59@gmail.com,VistaPeak Mining,Email Campaign,Mike Chen,New Lead,352242.31,2024-06-16,2024-12-10,Active,Asia Pacific
+LEAD-0118,Susan Lopez,susanl@yahoo.com,RedRock Ventures,Email Campaign,Sarah Johnson,Negotiation,,2025-03-15,2025-03-31,Active,Latin America
+LEAD-0119,Stephen Garcia,stephen.garcia@enterprise.org,Xenon Robotics,Website,James Wilson,Closed Won,82868.44,2024-04-15,2024-09-15,Converted,North America
+LEAD-0120,Amy Howard,amy30@gmail.com,,Partner,Sarah Johnson,Contacted,194574.84,2024-06-02,2025-08-15,Active,Middle East
+LEAD-0121,Shirley Lee,shirleyl@protonmail.com,UniCore Pharma,LinkedIn,Priya Patel,Negotiation,64103.46,2024-02-23,2025-08-04,Inactive,Middle East
+LEAD-0122,Joyce Bailey,joyce_bailey@company.com,TerraFirma Logistics,LinkedIn,Sarah Johnson,Qualified,,2024-07-24,2025-08-29,Active,Latin America
+LEAD-0123,Ronald Alvarez,ronald_alvarez@work.io,FusionGrid Power,Partner,Mike Chen,Negotiation,399006.9,2024-06-03,2024-12-29,Active,Latin America
+LEAD-0124,Joshua Cooper,joshua.cooper@work.io,,Email Campaign,James Wilson,Closed Won,56454.76,2025-06-26,2025-08-02,Converted,Middle East
+LEAD-0125,Jack Howard,jack.howard@yahoo.com,Falcon Industries,Website,Mike Chen,Closed Won,351919.22,2025-01-16,2025-05-20,Converted,North America
+LEAD-0126,Henry Taylor,henry.taylor@biz.co,ZenithWorks,Website,Emma Davis,Proposal Sent,482288.05,2024-08-30,2025-02-07,Inactive,Middle East
+LEAD-0127,Janet Chen,janetc@work.io,Orbit Solutions,Website,Mike Chen,New Lead,58941.55,2024-04-18,2025-08-08,Active,North America
+LEAD-0128,William Rivera,williamr@protonmail.com,DuoTech Solutions,LinkedIn,Sarah Johnson,New Lead,155586.42,2025-09-09,2025-09-09,Inactive,Asia Pacific
+LEAD-0129,Amy Bennett,amy.bennett@protonmail.com,ZenithWorks,Trade Show,Sarah Johnson,Proposal Sent,495384.93,2024-02-01,2025-05-09,Active,Latin America
+LEAD-0130,Jose Richardson,jose.richardson@enterprise.org,InnoVate Corp,Website,Sarah Johnson,New Lead,115032.63,2024-07-21,2025-01-27,Active,North America
+LEAD-0131,Jacob Khan,jacob75@company.com,Evergreen Partners,Website,Sarah Johnson,New Lead,405602.84,2024-04-04,2025-03-09,Active,Middle East
+LEAD-0132,Dorothy Evans,devans@corp.net,ZenithWorks,Cold Call,Sarah Johnson,Qualified,180201.91,2024-07-10,2025-02-23,Inactive,North America
+LEAD-0133,Jacob Perez,jacob79@protonmail.com,FusionGrid Power,Cold Call,Emma Davis,Qualified,194592.56,2025-03-05,2025-09-25,Active,Latin America
+LEAD-0134,Julie Singh,julie_singh@work.io,FusionGrid Power,LinkedIn,Emma Davis,Qualified,94008.86,2024-11-22,2024-12-07,Inactive,Asia Pacific
+LEAD-0135,Amy Wright,amy_wright@biz.co,LightSpeed Comm,Referral,Mike Chen,New Lead,136930.87,2024-02-27,2024-10-08,Active,Middle East
+LEAD-0136,Margaret Carter,mcarter@yahoo.com,UltraVision Labs,Partner,Priya Patel,Closed Won,,2024-12-26,2025-05-27,Converted,Latin America
+LEAD-0137,Ivan Lewis,ivan19@protonmail.com,FusionGrid Power,Trade Show,Priya Patel,New Lead,,2024-02-27,2024-10-08,Active,Middle East
+LEAD-0138,Fatima Hall,fatimah@protonmail.com,Vertex Capital,Email Campaign,Mike Chen,Closed Won,165176.46,2024-01-23,2024-03-07,Converted,Latin America
+LEAD-0139,Ryan Lewis,rlewis@outlook.com,Xenon Robotics,Website,Priya Patel,Proposal Sent,295078.25,2024-12-10,2025-02-17,Inactive,Middle East
+LEAD-0140,Mark Nguyen,mark_nguyen@work.io,Jupiter Analytics,Email Campaign,Emma Davis,Negotiation,296530.33,2024-06-28,2025-07-08,Active,Europe
+LEAD-0141,Brenda Khan,brenda.khan@corp.net,Zephyr Aerospace,Trade Show,Sarah Johnson,New Lead,405359.43,2025-09-18,2025-09-27,Active,Middle East
+LEAD-0142,Brenda Hall,brendah@outlook.com,UltraVision Labs,Referral,Sarah Johnson,Negotiation,365996.54,2024-12-09,2025-04-23,Active,North America
+LEAD-0143,Aaron Gray,aarong@outlook.com,DataStream Analytics,Cold Call,James Wilson,Negotiation,442853.24,2025-05-19,2025-08-16,Active,North America
+LEAD-0144,Raymond Brown,raymond62@protonmail.com,Evergreen Partners,Partner,Sarah Johnson,Contacted,476072.76,2024-03-16,2025-04-04,Active,North America
+LEAD-0145,Eric Thompson,eric.thompson@work.io,NorthStar Logistics,Cold Call,Sarah Johnson,Qualified,305622.22,2025-03-20,2025-04-14,Active,Europe
+LEAD-0146,Shirley Jones,shirley53@biz.co,SilverLine Media,LinkedIn,Mike Chen,New Lead,277083.0,2025-05-17,2025-08-17,Active,North America
+LEAD-0147,Virginia Hall,virginia38@enterprise.org,BrightWave Solutions,Referral,Mike Chen,Proposal Sent,239417.47,2024-04-28,2025-06-09,Active,Asia Pacific
+LEAD-0148,Benjamin Parker,benjamin12@corp.net,Yellowstone Data,LinkedIn,Mike Chen,Qualified,235203.69,2024-08-19,2025-06-03,Active,North America
+LEAD-0149,Sandra Roberts,sandrar@biz.co,WindRose Energy,Trade Show,Mike Chen,Qualified,410110.58,2025-03-04,2025-08-26,Inactive,Middle East
+LEAD-0150,Timothy Allen,tallen@enterprise.org,ZenithWorks,Partner,Sarah Johnson,Qualified,401222.92,2025-09-27,2025-09-30,Active,Europe
+LEAD-0151,Virginia Smith,vsmith@yahoo.com,,Website,James Wilson,Contacted,78199.73,2025-09-01,2025-09-30,Active,North America
+LEAD-0152,Ronald Campbell,ronald_campbell@biz.co,UltraVision Labs,Partner,Priya Patel,Qualified,11120.08,2025-09-30,2025-09-30,Active,Europe
+LEAD-0153,Raymond Richardson,raymond19@outlook.com,KaleidoScope Media,Partner,Sarah Johnson,Negotiation,440667.21,2025-02-24,2025-08-10,Active,Latin America
+LEAD-0154,Ashley Castillo,ashley.castillo@yahoo.com,JetStream Networks,Trade Show,Emma Davis,Proposal Sent,200917.41,2024-12-05,2024-12-30,Active,Asia Pacific
+LEAD-0155,Helen Bennett,helen.bennett@work.io,TerraFirma Logistics,LinkedIn,Priya Patel,Closed Won,344001.75,2024-08-21,2024-10-01,Converted,Asia Pacific
+LEAD-0156,Ruth Hughes,ruth_hughes@work.io,Atlas Financial,Trade Show,Sarah Johnson,New Lead,412864.87,2025-05-11,2025-08-14,Inactive,Latin America
+LEAD-0157,Steven Harris,steven.harris@company.com,ZenithWorks,Referral,Emma Davis,Closed Won,,2024-07-16,2024-09-12,Converted,North America
+LEAD-0158,Maria Gray,maria.gray@enterprise.org,Xenon Robotics,Email Campaign,Mike Chen,Contacted,255037.56,2024-05-06,2025-01-08,Active,Latin America
+LEAD-0159,Brian Ward,bward@enterprise.org,WavePoint Energy,LinkedIn,Mike Chen,Closed Won,416280.75,2024-04-02,2024-06-20,Converted,North America
+LEAD-0160,Ruth Peterson,ruth.peterson@yahoo.com,Zephyr Aerospace,Referral,Mike Chen,Proposal Sent,138196.37,2025-02-23,2025-09-10,Inactive,North America
+LEAD-0161,Nicole Torres,ntorres@yahoo.com,Apex Dynamics,Referral,Priya Patel,Proposal Sent,357806.54,2024-10-08,2025-04-18,Inactive,Middle East
+LEAD-0162,Samuel Reyes,sreyes@enterprise.org,HyperLoop Transit,Partner,Emma Davis,Qualified,258199.29,2025-01-18,2025-06-11,Active,North America
+LEAD-0163,Jason Rogers,jason.rogers@work.io,OceanView Properties,LinkedIn,Priya Patel,Contacted,446725.03,2024-11-01,2025-07-23,Inactive,North America
+LEAD-0164,Amanda James,amanda_james@work.io,UniCore Pharma,Website,James Wilson,Closed Lost,212190.01,2025-02-01,2025-02-17,Inactive,Latin America
+LEAD-0165,Christine Lopez,christine91@protonmail.com,TrueNorth Advisors,Referral,Emma Davis,Proposal Sent,470630.64,2025-01-02,2025-03-30,Active,Latin America
+LEAD-0166,Jacob Gray,jacobg@outlook.com,VistaPeak Mining,LinkedIn,Emma Davis,Negotiation,341457.62,2024-12-09,2025-04-01,Active,Asia Pacific
+LEAD-0167,Ronald Jackson,ronaldj@work.io,SilverLine Media,Cold Call,Sarah Johnson,Qualified,293869.44,2025-09-27,2025-09-27,Inactive,Latin America
+LEAD-0168,Nathan Ramirez,nathan_ramirez@biz.co,DataStream Analytics,Partner,Mike Chen,New Lead,207549.96,2025-08-06,2025-09-04,Active,Europe
+LEAD-0169,Christopher Collins,christopher_collins@work.io,Luminar Technologies,LinkedIn,Sarah Johnson,New Lead,381790.67,2024-06-21,2024-09-10,Active,North America
+LEAD-0170,Deborah Alvarez,deborah17@corp.net,ZenithWorks,Cold Call,James Wilson,Qualified,,2024-07-23,2024-07-30,Inactive,Latin America
+LEAD-0171,Ali Phillips,ali.phillips@gmail.com,Pinnacle Health,Referral,Priya Patel,Contacted,254151.56,2024-11-09,2024-12-02,Active,Asia Pacific
+LEAD-0172,Mary Long,mary59@biz.co,RiverBend Manufacturing,Referral,Priya Patel,Closed Lost,376307.21,2024-06-17,2024-10-05,Inactive,North America
+LEAD-0173,Margaret Sharma,msharma@yahoo.com,BrightWave Solutions,Trade Show,Emma Davis,New Lead,327017.49,2024-02-08,2024-10-26,Inactive,Latin America
+LEAD-0174,Dorothy Singh,dorothy7@gmail.com,PulseRate Health,Partner,Sarah Johnson,New Lead,224935.57,2024-05-06,2025-09-03,Active,Europe
+LEAD-0175,Omar Miller,omar.miller@company.com,GlobalTech Systems,Email Campaign,Emma Davis,Contacted,72895.94,2024-04-17,2024-08-15,Active,North America
+LEAD-0176,Ashley Collins,acollins@protonmail.com,HyperLoop Transit,Referral,Priya Patel,Proposal Sent,24505.83,2025-05-23,2025-09-23,Active,North America
+LEAD-0177,Omar Bennett,omar.bennett@outlook.com,QuickSilver Trading,Cold Call,Mike Chen,Closed Lost,42148.87,2024-04-13,2024-06-24,Inactive,Europe
+LEAD-0178,Samantha Long,samanthal@company.com,GlobalTech Systems,Partner,Mike Chen,Closed Won,183306.26,2024-11-16,2025-03-12,Converted,North America
+LEAD-0179,Joyce Mueller,joyce.mueller@gmail.com,QuickSilver Trading,Email Campaign,Mike Chen,Contacted,477769.13,2024-10-01,2024-11-17,Active,Asia Pacific
+LEAD-0180,Wei Lee,wei.lee@corp.net,DuoTech Solutions,LinkedIn,James Wilson,Proposal Sent,213761.21,2024-06-19,2025-06-10,Active,Europe
+LEAD-0181,Suki Edwards,suki_edwards@enterprise.org,RiverBend Manufacturing,Cold Call,Mike Chen,Proposal Sent,307622.42,2024-05-13,2025-01-17,Active,Middle East
+LEAD-0182,Amy Tanaka,amy.tanaka@outlook.com,UltraVision Labs,Website,Emma Davis,Negotiation,284681.05,2024-12-12,2025-01-29,Active,Europe
+LEAD-0183,Leo Watson,leow@corp.net,Jupiter Analytics,Trade Show,Sarah Johnson,New Lead,255255.95,2025-04-25,2025-06-06,Active,Middle East
+LEAD-0184,Aisha Martinez,amartinez@work.io,DataStream Analytics,Trade Show,Mike Chen,Qualified,409466.14,2024-03-21,2025-06-22,Active,Middle East
+LEAD-0185,Jacob Wright,jacobw@outlook.com,VistaPeak Mining,Email Campaign,Sarah Johnson,New Lead,280779.85,2024-01-01,2025-09-10,Inactive,Asia Pacific
+LEAD-0186,Charles Moore,charles66@protonmail.com,DuoTech Solutions,LinkedIn,Priya Patel,Negotiation,422937.13,2024-12-05,2025-08-04,Active,Asia Pacific
+LEAD-0187,Jerry Ruiz,jerry_ruiz@outlook.com,QuickSilver Trading,Referral,Sarah Johnson,Contacted,482394.67,2024-10-25,2025-05-04,Active,North America
+LEAD-0188,Jason Rodriguez,jason_rodriguez@yahoo.com,VistaPeak Mining,Email Campaign,James Wilson,New Lead,97833.98,2025-02-06,2025-09-05,Inactive,Asia Pacific
+LEAD-0189,Raymond Cooper,raymond_cooper@gmail.com,RiverBend Manufacturing,Trade Show,Sarah Johnson,Negotiation,330936.06,2025-05-31,2025-08-02,Active,North America
+LEAD-0190,Jessica Clark,jessica_clark@enterprise.org,Zephyr Aerospace,Referral,Emma Davis,New Lead,56259.21,2025-09-06,2025-09-16,Active,Middle East
+LEAD-0191,Heather Foster,heather54@protonmail.com,Vertex Capital,LinkedIn,James Wilson,Negotiation,303249.6,2025-06-08,2025-09-05,Active,Asia Pacific
+LEAD-0192,Jennifer Ali,jennifer92@protonmail.com,NorthStar Logistics,Email Campaign,Priya Patel,Proposal Sent,70672.51,2024-07-01,2025-06-21,Active,North America
+LEAD-0193,Maria Morris,mariam@biz.co,KaleidoScope Media,Email Campaign,James Wilson,Proposal Sent,269281.89,2025-03-08,2025-07-19,Active,Middle East
+LEAD-0194,Leo Martin,leo.martin@gmail.com,WindRose Energy,Partner,Mike Chen,Closed Lost,77482.05,2024-03-04,2024-05-25,Inactive,Europe
+LEAD-0195,Heather Ali,heather97@gmail.com,CrestView Enterprises,Website,Emma Davis,Closed Won,433096.54,2025-07-28,2025-08-28,Converted,Europe
+LEAD-0196,Olivia Morgan,oliviam@gmail.com,Yellowstone Data,Cold Call,Priya Patel,Closed Lost,,2024-09-14,2024-11-11,Inactive,Latin America
+LEAD-0197,Jeffrey Morales,jmorales@work.io,IronClad Defense,Email Campaign,Emma Davis,New Lead,100781.37,2025-04-04,2025-09-25,Active,Europe
+LEAD-0198,Virginia Morales,virginia95@outlook.com,BlueShift Dynamics,LinkedIn,Emma Davis,Contacted,423777.03,2024-01-06,2024-06-12,Active,Asia Pacific
+LEAD-0199,Anya Ramirez,anya.ramirez@company.com,KaleidoScope Media,Trade Show,Priya Patel,New Lead,265070.56,2024-07-07,2025-08-13,Active,Middle East
+LEAD-0200,Ruth Castillo,ruth70@corp.net,Orbit Solutions,Referral,Priya Patel,Contacted,475402.6,2025-09-25,2025-09-29,Inactive,North America
+LEAD-0201,Priya Taylor,priyat@enterprise.org,PulseRate Health,Trade Show,Emma Davis,Contacted,,2024-11-24,2025-01-21,Active,Latin America
+LEAD-0202,Michael Gomez,michaelg@gmail.com,Zephyr Aerospace,LinkedIn,Emma Davis,Negotiation,26706.57,2024-07-16,2024-08-27,Inactive,Europe
+LEAD-0203,Michael Hernandez,michael99@biz.co,,Website,Mike Chen,Proposal Sent,433150.67,2025-03-10,2025-05-01,Active,Middle East
+LEAD-0204,Paul Khan,paul.khan@yahoo.com,,Email Campaign,Priya Patel,New Lead,,2024-07-01,2025-04-12,Active,Europe
+LEAD-0205,Richard King,richard_king@corp.net,ZenithWorks,Cold Call,Priya Patel,New Lead,269743.01,2025-09-25,2025-09-25,Active,North America
+LEAD-0206,Jason Collins,jason.collins@work.io,GlobalTech Systems,LinkedIn,Priya Patel,Proposal Sent,463711.99,2025-01-25,2025-07-13,Active,Europe
+LEAD-0207,Maria Scott,mscott@yahoo.com,IronClad Defense,LinkedIn,Mike Chen,Contacted,482855.87,2025-01-17,2025-01-22,Active,Latin America
+LEAD-0208,Olivia Allen,olivia.allen@gmail.com,,Trade Show,James Wilson,Qualified,155822.12,2024-12-18,2025-09-06,Active,Europe
+LEAD-0209,Ivan Williams,ivan29@company.com,Luminar Technologies,Email Campaign,Emma Davis,Closed Won,466523.08,2025-07-16,2025-09-20,Converted,Latin America
+LEAD-0210,Susan Hall,susanh@outlook.com,MeridianX Group,Email Campaign,Emma Davis,Qualified,68466.5,2024-08-28,2024-10-02,Inactive,Asia Pacific
+LEAD-0211,Sarah Sharma,sarah_sharma@work.io,TerraFirma Logistics,Email Campaign,Emma Davis,New Lead,404811.38,2025-03-14,2025-06-02,Active,Europe
+LEAD-0212,William Long,william_long@company.com,InnoVate Corp,Email Campaign,Priya Patel,Closed Won,182577.09,2024-11-08,2025-03-19,Converted,Latin America
+LEAD-0213,Amy Sanchez,asanchez@outlook.com,InnoVate Corp,Trade Show,Mike Chen,Contacted,42848.88,2024-03-18,2025-08-19,Active,Latin America
+LEAD-0214,Michelle Walker,michelle_walker@protonmail.com,Jupiter Analytics,LinkedIn,Emma Davis,Closed Won,328684.53,2024-06-01,2024-09-09,Converted,Middle East
+LEAD-0215,Sandra Reed,sandra29@company.com,GreenLeaf Biotech,Trade Show,Sarah Johnson,Qualified,333025.85,2025-09-20,2025-09-28,Active,Europe
+LEAD-0216,Priya Hughes,priya23@yahoo.com,EliteForce Security,LinkedIn,Sarah Johnson,Contacted,36116.27,2025-01-13,2025-04-28,Active,Asia Pacific
+LEAD-0217,Jack Perez,jack_perez@enterprise.org,CloudNova Inc,Email Campaign,Priya Patel,New Lead,318615.66,2024-10-07,2025-02-18,Active,Latin America
+LEAD-0218,Sandra Sharma,sandra_sharma@corp.net,PulseRate Health,Partner,Sarah Johnson,Qualified,454085.0,2025-06-12,2025-09-24,Inactive,Middle East
+LEAD-0219,Helen Wilson,helen62@gmail.com,InnoVate Corp,Cold Call,Mike Chen,Contacted,144000.71,2024-06-02,2024-12-04,Active,North America
+LEAD-0220,Helen Kelly,hkelly@corp.net,UniCore Pharma,Website,James Wilson,Proposal Sent,297441.49,2025-02-24,2025-03-07,Active,Latin America
+LEAD-0221,Dennis Gomez,dgomez@biz.co,,Trade Show,Mike Chen,New Lead,94118.58,2025-02-19,2025-07-13,Active,Asia Pacific
+LEAD-0222,Ronald Martinez,rmartinez@enterprise.org,EliteForce Security,Partner,James Wilson,New Lead,302415.16,2025-08-19,2025-08-30,Active,Latin America
+LEAD-0223,Gary Wilson,gwilson@work.io,MapleStar Retail,Trade Show,Sarah Johnson,Contacted,58742.21,2024-07-26,2025-04-10,Active,Europe
+LEAD-0224,Nicole Weber,nicole.weber@yahoo.com,NorthStar Logistics,Trade Show,Sarah Johnson,Closed Won,377429.66,2024-04-05,2024-08-13,Converted,Europe
+LEAD-0225,Donald Chen,donald78@gmail.com,Zephyr Aerospace,Email Campaign,James Wilson,Qualified,26501.95,2025-06-26,2025-08-26,Active,Middle East
+LEAD-0226,William Hall,william45@outlook.com,Quantum Leap AI,Cold Call,Mike Chen,Closed Won,301154.71,2025-07-10,2025-09-07,Converted,Asia Pacific
+LEAD-0227,Jack Rodriguez,jack.rodriguez@gmail.com,Horizon Digital,Trade Show,Sarah Johnson,Contacted,403122.14,2025-02-22,2025-04-02,Active,Latin America
+LEAD-0228,Debra Johnson,debraj@biz.co,Xenon Robotics,Trade Show,Priya Patel,Closed Lost,105828.36,2025-07-19,2025-09-25,Inactive,Europe
+LEAD-0229,Rosa Wilson,rosa48@biz.co,TerraFirma Logistics,Trade Show,Priya Patel,Negotiation,73343.92,2024-05-01,2025-08-01,Active,Europe
+LEAD-0230,Patrick Brooks,pbrooks@biz.co,Vertex Capital,Partner,Emma Davis,Proposal Sent,30766.13,2025-02-02,2025-02-03,Active,Europe
+LEAD-0231,Fatima Price,fatima61@corp.net,Quantum Leap AI,Referral,Priya Patel,New Lead,,2025-01-28,2025-05-10,Active,Latin America
+LEAD-0232,Dorothy Sanders,dorothy37@gmail.com,Luminar Technologies,Email Campaign,James Wilson,Qualified,330157.69,2025-06-14,2025-06-18,Active,Latin America
+LEAD-0233,Anna Ward,award@yahoo.com,Xenon Robotics,Referral,Sarah Johnson,Closed Lost,141588.75,2025-02-13,2025-05-21,Inactive,Middle East
+LEAD-0234,Anya Reyes,anya52@protonmail.com,VistaPeak Mining,Email Campaign,Sarah Johnson,Closed Won,364438.66,2025-07-26,2025-09-29,Converted,Latin America
+LEAD-0235,Jonathan Adams,jonathana@company.com,MeridianX Group,Cold Call,James Wilson,Proposal Sent,206531.64,2024-04-19,2025-09-16,Active,North America
+LEAD-0236,Daniel Scott,daniels@biz.co,KaleidoScope Media,LinkedIn,James Wilson,Closed Lost,386133.76,2024-12-13,2025-04-16,Inactive,Middle East
+LEAD-0237,Gary Long,gary.long@enterprise.org,Evergreen Partners,Cold Call,Mike Chen,Proposal Sent,161286.69,2024-12-27,2024-12-31,Active,Asia Pacific
+LEAD-0238,Maria Baker,mariab@outlook.com,VistaPeak Mining,Partner,Priya Patel,New Lead,240894.95,2024-12-28,2025-05-14,Active,Europe
+LEAD-0239,Sandra Sharma,ssharma@protonmail.com,Quantum Leap AI,Referral,Mike Chen,Contacted,311205.47,2024-06-08,2024-08-08,Inactive,Middle East
+LEAD-0240,Leo Ramirez,leo.ramirez@biz.co,EliteForce Security,LinkedIn,Emma Davis,Contacted,441088.69,2025-08-11,2025-09-11,Active,Latin America
+LEAD-0241,Eric Baker,eric_baker@protonmail.com,InnoVate Corp,Website,Emma Davis,Negotiation,272680.13,2025-05-29,2025-09-16,Active,Europe
+LEAD-0242,Stephen Bailey,stephen.bailey@biz.co,SkyBridge Telecom,Website,Sarah Johnson,Proposal Sent,54870.17,2025-01-05,2025-05-17,Active,Asia Pacific
+LEAD-0243,Jonathan Foster,jonathanf@enterprise.org,Vertex Capital,LinkedIn,Mike Chen,Qualified,351852.75,2025-01-16,2025-08-09,Active,Europe
+LEAD-0244,Jose Morales,jmorales@protonmail.com,UniCore Pharma,LinkedIn,Mike Chen,Qualified,102051.29,2024-06-02,2024-06-06,Active,Middle East
+LEAD-0245,Kathleen Ruiz,kathleen18@biz.co,FusionGrid Power,LinkedIn,Priya Patel,Proposal Sent,202208.94,2024-06-16,2024-10-24,Active,North America
+LEAD-0246,Rosa Edwards,rosae@company.com,Jupiter Analytics,Trade Show,Priya Patel,Contacted,178789.79,2025-09-12,2025-09-30,Active,Latin America
+LEAD-0247,Nancy Nguyen,nancyn@work.io,GreenLeaf Biotech,Cold Call,James Wilson,Closed Won,146829.17,2024-05-28,2024-07-16,Converted,Asia Pacific
+LEAD-0248,Gary Flores,gary54@corp.net,Evergreen Partners,Website,Mike Chen,Contacted,328241.48,2024-09-30,2025-04-20,Active,Middle East
+LEAD-0249,Jack Stewart,jack47@biz.co,Atlas Financial,Referral,Mike Chen,Closed Won,121140.46,2024-09-14,2024-10-11,Converted,Europe
+LEAD-0250,Frank Diaz,frank_diaz@outlook.com,EliteForce Security,Trade Show,Sarah Johnson,New Lead,383673.2,2024-03-26,2025-02-05,Active,Middle East
+LEAD-0251,Raymond Rivera,rrivera@protonmail.com,CrestView Enterprises,Email Campaign,Mike Chen,New Lead,19142.79,2024-12-31,2025-06-15,Inactive,Middle East
+LEAD-0252,Anna Flores,annaf@biz.co,SkyBridge Telecom,Trade Show,Mike Chen,Proposal Sent,375711.24,2025-07-31,2025-09-09,Active,Asia Pacific
+LEAD-0253,Donald Castillo,donald_castillo@biz.co,Falcon Industries,Cold Call,Priya Patel,Contacted,155268.59,2024-01-01,2024-05-19,Active,Middle East
+LEAD-0254,Donald Myers,donald.myers@enterprise.org,EliteForce Security,LinkedIn,Sarah Johnson,Negotiation,300516.86,2024-01-08,2024-07-19,Active,Latin America
+LEAD-0255,Melissa Harris,melissa_harris@protonmail.com,VistaPeak Mining,Email Campaign,James Wilson,Negotiation,44208.82,2024-09-02,2025-07-12,Active,Asia Pacific
+LEAD-0256,Anya Scott,anya37@company.com,Evergreen Partners,Referral,Mike Chen,Contacted,310776.06,2024-10-05,2025-06-13,Active,North America
+LEAD-0257,Larry Gonzalez,larry.gonzalez@biz.co,,Website,Priya Patel,Contacted,364918.0,2024-08-26,2024-09-02,Active,Asia Pacific
+LEAD-0258,Emma Robinson,emmar@enterprise.org,DuoTech Solutions,Email Campaign,Sarah Johnson,Contacted,476063.8,2024-02-27,2025-04-03,Active,Middle East
+LEAD-0259,Nicole Johnson,njohnson@company.com,Apex Dynamics,Website,Mike Chen,Qualified,127345.28,2024-02-04,2024-05-10,Active,Europe
+LEAD-0260,Steven Scott,steven_scott@company.com,KeyStone Consulting,Email Campaign,Sarah Johnson,Negotiation,65460.05,2025-05-07,2025-06-26,Active,North America
+LEAD-0261,Susan Peterson,speterson@outlook.com,BlueShift Dynamics,LinkedIn,Sarah Johnson,New Lead,64226.55,2024-09-05,2024-09-26,Active,Middle East
+LEAD-0262,Steven Brooks,steven89@yahoo.com,Falcon Industries,Referral,Mike Chen,Qualified,172518.94,2024-03-02,2025-01-26,Active,Latin America
+LEAD-0263,Rosa Wilson,rwilson@enterprise.org,Jupiter Analytics,Partner,Priya Patel,Negotiation,100517.82,2025-01-21,2025-02-24,Active,North America
+LEAD-0264,Larry Stewart,larry_stewart@biz.co,SkyBridge Telecom,Cold Call,Mike Chen,Proposal Sent,165222.03,2025-04-24,2025-09-24,Inactive,Latin America
+LEAD-0265,Debra White,debra.white@biz.co,SilverLine Media,Partner,Priya Patel,Qualified,389079.36,2025-06-02,2025-06-25,Inactive,Latin America
+LEAD-0266,Nicholas Khan,nicholas47@protonmail.com,Evergreen Partners,Email Campaign,Emma Davis,Negotiation,343195.97,2025-07-18,2025-08-23,Active,Asia Pacific
+LEAD-0267,Thomas Phillips,thomas.phillips@biz.co,CloudNova Inc,Partner,Mike Chen,New Lead,,2024-04-19,2024-07-29,Active,Middle East
+LEAD-0268,Susan Martin,susan_martin@biz.co,LightSpeed Comm,LinkedIn,Sarah Johnson,Contacted,40082.61,2024-08-01,2024-09-10,Active,North America
+LEAD-0269,Nicole Hernandez,nicole47@corp.net,TrueNorth Advisors,Website,Emma Davis,Contacted,,2024-03-13,2024-05-31,Inactive,Latin America
+LEAD-0270,Donald Bailey,donald.bailey@protonmail.com,MeridianX Group,Referral,Emma Davis,Proposal Sent,474014.16,2025-07-25,2025-09-16,Active,Latin America
+LEAD-0271,Laura Sharma,laura_sharma@corp.net,KeyStone Consulting,Partner,Mike Chen,Qualified,330478.28,2025-06-30,2025-08-25,Inactive,Asia Pacific
+LEAD-0272,Yuki Cruz,yukic@work.io,OceanView Properties,Cold Call,Priya Patel,Proposal Sent,110894.43,2025-07-17,2025-08-18,Active,Middle East
+LEAD-0273,Joyce Flores,joyce_flores@gmail.com,SilverLine Media,Trade Show,Sarah Johnson,Qualified,154411.62,2024-11-03,2025-02-20,Inactive,North America
+LEAD-0274,Jessica Ward,jessicaw@biz.co,KaleidoScope Media,Trade Show,Mike Chen,New Lead,82273.02,2024-09-28,2025-07-23,Active,Asia Pacific
+LEAD-0275,Betty Ross,betty.ross@corp.net,NexGen Software,Email Campaign,Sarah Johnson,Negotiation,90586.73,2025-08-13,2025-08-19,Active,Asia Pacific
+LEAD-0276,Jason King,jason5@corp.net,DataStream Analytics,Partner,Priya Patel,Contacted,211178.25,2024-05-03,2024-12-21,Active,Latin America
+LEAD-0277,Kenneth Walker,kenneth_walker@gmail.com,CloudNova Inc,LinkedIn,Emma Davis,Proposal Sent,350395.48,2024-06-05,2025-06-14,Inactive,Middle East
+LEAD-0278,Karen Lee,karen97@biz.co,BlueShift Dynamics,LinkedIn,James Wilson,New Lead,240548.05,2024-02-20,2024-11-14,Active,Latin America
+LEAD-0279,Fatima Price,fprice@yahoo.com,MeridianX Group,Cold Call,James Wilson,Proposal Sent,309918.43,2025-06-20,2025-06-29,Active,Middle East
+LEAD-0280,Ivan Nguyen,ivan42@outlook.com,Atlas Financial,Cold Call,Priya Patel,Contacted,298969.19,2024-01-25,2024-07-16,Inactive,Latin America
+LEAD-0281,Pamela Price,pamela57@yahoo.com,Orbit Solutions,Referral,Priya Patel,New Lead,47478.15,2024-02-25,2024-07-25,Inactive,Asia Pacific
+LEAD-0282,Carlos Martinez,carlosm@outlook.com,EliteForce Security,Website,Priya Patel,Contacted,105881.67,2025-06-19,2025-08-28,Active,Europe
+LEAD-0283,Shirley Nakamura,shirley.nakamura@corp.net,QuickSilver Trading,Trade Show,Sarah Johnson,Contacted,,2024-07-24,2025-06-05,Active,Middle East
+LEAD-0284,Ronald Diaz,ronald.diaz@outlook.com,RedRock Ventures,Email Campaign,Priya Patel,Closed Won,,2025-01-30,2025-04-06,Converted,Middle East
+LEAD-0285,Laura Chavez,laura.chavez@work.io,MapleStar Retail,Trade Show,Sarah Johnson,New Lead,231703.2,2024-01-23,2024-11-30,Active,Middle East
+LEAD-0286,Jonathan Johansson,jjohansson@gmail.com,WavePoint Energy,LinkedIn,Priya Patel,Contacted,253119.47,2024-03-04,2025-04-04,Inactive,North America
+LEAD-0287,Jessica Perez,jessicap@protonmail.com,ZenithWorks,Email Campaign,Mike Chen,New Lead,480499.82,2025-09-19,2025-09-29,Active,Europe
+LEAD-0288,Pamela Cruz,pcruz@corp.net,MapleStar Retail,LinkedIn,James Wilson,Qualified,73595.38,2025-07-08,2025-08-02,Inactive,Asia Pacific
+LEAD-0289,Nicole Hughes,nicole89@yahoo.com,Zephyr Aerospace,Referral,Emma Davis,Closed Won,280883.45,2024-05-01,2024-06-24,Converted,Asia Pacific
+LEAD-0290,Anna Cook,anna.cook@work.io,Atlas Financial,Cold Call,Priya Patel,Qualified,447594.4,2024-10-07,2025-01-11,Active,Europe
+LEAD-0291,Aisha Hernandez,aisha4@company.com,NorthStar Logistics,Referral,Emma Davis,Contacted,182834.36,2025-05-03,2025-08-31,Active,Asia Pacific
+LEAD-0292,Henry Patel,henry_patel@enterprise.org,KeyStone Consulting,Referral,Mike Chen,New Lead,12432.06,2024-10-03,2025-01-24,Active,Europe
+LEAD-0293,Nicholas Brown,nbrown@outlook.com,CrestView Enterprises,Partner,Emma Davis,Qualified,231484.74,2024-09-09,2024-09-30,Active,Middle East
+LEAD-0294,Jennifer Ross,jenniferr@corp.net,VistaPeak Mining,Trade Show,Emma Davis,Qualified,353535.71,2024-02-09,2025-05-16,Active,North America
+LEAD-0295,Jonathan Kelly,jonathan32@biz.co,VistaPeak Mining,Website,Emma Davis,Qualified,481483.19,2024-07-13,2025-02-01,Inactive,Asia Pacific
+LEAD-0296,Brian Stewart,bstewart@corp.net,DataStream Analytics,Email Campaign,Emma Davis,Closed Won,324820.25,2024-04-02,2024-08-15,Converted,North America
+LEAD-0297,Raj Scott,raj24@biz.co,Atlas Financial,LinkedIn,James Wilson,New Lead,448825.67,2024-07-25,2024-09-09,Active,Europe
+LEAD-0298,Virginia Brooks,virginia.brooks@outlook.com,CrestView Enterprises,Email Campaign,Priya Patel,New Lead,364802.55,2025-06-07,2025-06-27,Active,Middle East
+LEAD-0299,Nancy Stewart,nstewart@work.io,QuickSilver Trading,Partner,Mike Chen,New Lead,385732.61,2024-02-22,2025-01-03,Active,Middle East
+LEAD-0300,Christine Adams,cadams@outlook.com,MeridianX Group,Website,Emma Davis,Negotiation,,2025-05-24,2025-05-25,Active,Middle East
+LEAD-0301,Carol Nelson,cnelson@enterprise.org,CrestView Enterprises,Website,Emma Davis,Proposal Sent,275934.1,2025-09-26,2025-09-27,Active,Europe
+LEAD-0302,Ali Torres,alit@gmail.com,CloudNova Inc,Email Campaign,Emma Davis,Closed Won,460590.43,2024-02-20,2024-03-25,Converted,Middle East
+LEAD-0303,Aaron Petrov,apetrov@company.com,SkyBridge Telecom,Email Campaign,Emma Davis,Proposal Sent,483315.17,2025-08-15,2025-08-17,Active,Asia Pacific
+LEAD-0304,Elizabeth Collins,elizabethc@corp.net,WindRose Energy,Cold Call,Emma Davis,New Lead,65401.5,2024-10-08,2025-05-07,Active,Europe
+LEAD-0305,Nicholas Adams,nicholas.adams@outlook.com,OceanView Properties,Trade Show,Sarah Johnson,Qualified,467276.38,2024-10-21,2025-04-01,Active,Latin America
+LEAD-0306,Ruth Khan,ruthk@yahoo.com,FusionGrid Power,Trade Show,James Wilson,Qualified,306655.85,2024-10-24,2024-10-24,Active,Middle East
+LEAD-0307,James James,james.james@protonmail.com,Atlas Financial,Cold Call,Sarah Johnson,Contacted,320564.25,2024-01-12,2024-10-26,Active,North America
+LEAD-0308,Omar Evans,omare@biz.co,Zephyr Aerospace,Website,Sarah Johnson,Proposal Sent,363576.34,2025-09-22,2025-09-24,Active,Asia Pacific
+LEAD-0309,Patrick Richardson,patrick_richardson@enterprise.org,PulseRate Health,Referral,James Wilson,New Lead,433286.05,2024-12-09,2025-07-08,Inactive,North America
+LEAD-0310,Raj Ross,rajr@work.io,BrightWave Solutions,Referral,Emma Davis,Proposal Sent,444574.59,2024-12-28,2025-02-04,Active,North America
+LEAD-0311,Jonathan Peterson,jonathan_peterson@biz.co,KaleidoScope Media,Trade Show,James Wilson,New Lead,392260.25,2024-11-11,2025-04-21,Active,Asia Pacific
+LEAD-0312,Pamela Cruz,pamela.cruz@enterprise.org,Xenon Robotics,Cold Call,Priya Patel,Contacted,60554.48,2024-02-08,2024-05-12,Active,North America
+LEAD-0313,Leo Thomas,leo62@yahoo.com,EliteForce Security,Email Campaign,Emma Davis,Contacted,385893.29,2024-04-10,2025-09-20,Active,Europe
+LEAD-0314,Pamela Cruz,pamela.cruz@enterprise.org,HyperLoop Transit,Website,Sarah Johnson,Contacted,,2025-08-31,2025-09-10,Active,North America
+LEAD-0315,Kenneth Flores,kenneth14@company.com,,Partner,Priya Patel,Proposal Sent,104274.98,2024-10-20,2025-04-01,Active,North America
+LEAD-0316,Jose Lopez,jlopez@yahoo.com,Apex Dynamics,Trade Show,Emma Davis,Qualified,178407.48,2024-11-22,2025-04-16,Active,Europe
+LEAD-0317,Sandra Reyes,sandrar@work.io,DataStream Analytics,Referral,Sarah Johnson,Qualified,57433.82,2024-02-25,2024-09-12,Active,Latin America
+LEAD-0318,Michelle Murphy,michelle_murphy@work.io,MeridianX Group,Email Campaign,Emma Davis,New Lead,383392.0,2025-08-04,2025-09-25,Inactive,Middle East
+LEAD-0319,Justin Rogers,justin_rogers@company.com,TrueNorth Advisors,Partner,James Wilson,Qualified,76142.23,2025-09-23,2025-09-28,Active,Asia Pacific
+LEAD-0320,Adam Mueller,adam_mueller@enterprise.org,,Cold Call,Sarah Johnson,Contacted,89546.76,2024-12-22,2025-02-25,Active,Middle East
+LEAD-0321,Ivan Young,ivan.young@work.io,Evergreen Partners,Partner,Priya Patel,Qualified,209653.74,2025-09-27,2025-09-28,Inactive,Middle East
+LEAD-0322,Donna Roberts,donnar@protonmail.com,LightSpeed Comm,Cold Call,James Wilson,Proposal Sent,348595.91,2024-06-26,2024-08-04,Active,Latin America
+LEAD-0323,Paul Khan,paul.khan@enterprise.org,GlobalTech Systems,Partner,James Wilson,New Lead,39455.78,2024-04-21,2025-05-14,Active,North America
+LEAD-0324,Adam Baker,abaker@yahoo.com,WindRose Energy,Email Campaign,Sarah Johnson,Negotiation,229222.34,2024-10-25,2025-08-16,Active,Europe
+LEAD-0325,Jonathan Johansson,jonathanj@company.com,RiverBend Manufacturing,LinkedIn,James Wilson,Negotiation,495193.18,2025-08-19,2025-08-19,Inactive,Middle East
+LEAD-0326,Raymond Richardson,raymondr@gmail.com,Jupiter Analytics,Website,Sarah Johnson,Proposal Sent,182826.09,2024-10-15,2025-02-12,Active,Latin America
+LEAD-0327,Rosa Khan,rosak@corp.net,BlueShift Dynamics,Trade Show,Mike Chen,Proposal Sent,98172.28,2025-01-28,2025-04-30,Active,Europe
+LEAD-0328,Anya Hall,ahall@yahoo.com,,Email Campaign,Sarah Johnson,New Lead,330673.71,2024-05-19,2025-04-12,Inactive,Middle East
+LEAD-0329,Dennis Collins,dennis90@corp.net,DuoTech Solutions,Trade Show,James Wilson,Qualified,180877.08,2024-07-09,2024-07-12,Active,Europe
+LEAD-0330,Timothy Hughes,timothy92@company.com,IronClad Defense,Trade Show,Priya Patel,New Lead,,2025-05-09,2025-06-06,Active,North America
+LEAD-0331,Jerry Robinson,jerry19@company.com,Falcon Industries,Trade Show,Emma Davis,New Lead,372134.62,2024-03-20,2025-09-23,Inactive,Asia Pacific
+LEAD-0332,Julie Garcia,julie.garcia@work.io,Apex Dynamics,Cold Call,James Wilson,Qualified,368238.2,2025-03-07,2025-09-27,Active,Europe
+LEAD-0333,Suki Price,suki5@company.com,KaleidoScope Media,LinkedIn,Sarah Johnson,Proposal Sent,288565.7,2024-10-25,2025-09-09,Active,Middle East
+LEAD-0334,Maria Roberts,mroberts@biz.co,RedRock Ventures,LinkedIn,Mike Chen,Proposal Sent,132193.08,2024-04-24,2024-09-25,Active,Asia Pacific
+LEAD-0335,Joshua Murphy,joshuam@protonmail.com,HyperLoop Transit,Partner,Sarah Johnson,Contacted,76809.77,2024-06-06,2025-06-26,Inactive,Middle East
+LEAD-0336,Steven Cook,steven_cook@yahoo.com,UniCore Pharma,Partner,Priya Patel,New Lead,410667.85,2024-02-23,2025-04-06,Active,Middle East
+LEAD-0337,Raymond Gonzalez,raymond96@protonmail.com,TrueNorth Advisors,Cold Call,James Wilson,Contacted,220193.49,2024-10-22,2025-06-08,Active,Asia Pacific
+LEAD-0338,Aisha Gonzalez,aisha.gonzalez@outlook.com,OceanView Properties,LinkedIn,James Wilson,Proposal Sent,139932.34,2024-10-03,2024-11-22,Active,Latin America
+LEAD-0339,Carlos Johnson,carlos_johnson@protonmail.com,LightSpeed Comm,Partner,Mike Chen,Qualified,496641.35,2024-11-16,2024-11-20,Active,North America
+LEAD-0340,Jose Wood,jose.wood@biz.co,CrestView Enterprises,LinkedIn,Mike Chen,Negotiation,21850.67,2025-09-26,2025-09-26,Inactive,Europe
+LEAD-0341,Karen Stewart,karen.stewart@outlook.com,MapleStar Retail,Referral,James Wilson,Proposal Sent,285204.06,2024-07-08,2025-06-29,Active,Asia Pacific
+LEAD-0342,Shirley Baker,shirley.baker@enterprise.org,RedRock Ventures,Partner,James Wilson,Proposal Sent,386209.21,2024-09-20,2024-10-27,Active,North America
+LEAD-0343,Diane Wood,diane_wood@work.io,Quantum Leap AI,Partner,Priya Patel,New Lead,,2024-07-24,2024-10-23,Active,North America
+LEAD-0344,Raymond Ali,raymond19@corp.net,PulseRate Health,Website,James Wilson,Negotiation,41095.15,2025-08-08,2025-09-26,Active,Middle East
+LEAD-0345,Maria Green,maria.green@gmail.com,RedRock Ventures,Referral,Priya Patel,Closed Won,260114.59,2025-05-17,2025-09-23,Converted,Middle East
+LEAD-0346,Leo Cooper,leo.cooper@biz.co,Yellowstone Data,Email Campaign,James Wilson,New Lead,495842.68,2024-12-07,2025-06-30,Active,North America
+LEAD-0347,Sarah Walker,sarah47@work.io,DuoTech Solutions,Partner,Priya Patel,Proposal Sent,24468.94,2025-01-28,2025-04-14,Active,North America
+LEAD-0348,Pamela Robinson,pamelar@enterprise.org,OceanView Properties,Cold Call,Mike Chen,New Lead,361270.82,2025-08-30,2025-09-23,Active,Latin America
+LEAD-0349,Virginia Gonzalez,virginiag@enterprise.org,CrestView Enterprises,Website,Sarah Johnson,Contacted,361900.93,2025-02-19,2025-05-04,Inactive,Latin America
+LEAD-0350,Betty Cruz,betty20@protonmail.com,CloudNova Inc,Email Campaign,Mike Chen,Qualified,,2025-09-25,2025-09-25,Active,Europe
+LEAD-0351,Scott Brown,sbrown@gmail.com,GlobalTech Systems,Cold Call,Emma Davis,New Lead,409811.09,2024-04-18,2025-02-16,Inactive,Europe
+LEAD-0352,Joseph Nguyen,jnguyen@corp.net,VistaPeak Mining,Email Campaign,James Wilson,Contacted,290103.67,2024-05-20,2025-09-25,Inactive,North America
+LEAD-0353,Henry Jackson,hjackson@work.io,RedRock Ventures,Referral,James Wilson,New Lead,86678.03,2024-09-06,2024-09-26,Active,Latin America
+LEAD-0354,Julie Reed,jreed@gmail.com,Falcon Industries,Website,Sarah Johnson,New Lead,327619.12,2024-10-17,2025-06-17,Active,Europe
+LEAD-0355,George Perez,georgep@biz.co,Pinnacle Health,Referral,Emma Davis,Proposal Sent,360013.38,2025-09-18,2025-09-28,Active,Asia Pacific
+LEAD-0356,Maria Richardson,maria_richardson@gmail.com,MeridianX Group,Website,Emma Davis,Closed Lost,432051.87,2025-07-06,2025-09-15,Inactive,Europe
+LEAD-0357,Nina Howard,nhoward@company.com,Horizon Digital,Partner,Mike Chen,Proposal Sent,239834.36,2024-06-29,2024-07-21,Active,Asia Pacific
+LEAD-0358,Omar Brooks,obrooks@corp.net,NorthStar Logistics,Partner,James Wilson,New Lead,462806.37,2024-06-29,2024-07-13,Active,North America
+LEAD-0359,Angela Bennett,abennett@enterprise.org,UltraVision Labs,Cold Call,Mike Chen,Negotiation,118881.3,2024-04-22,2024-07-31,Active,Middle East
+LEAD-0360,Sandra Sharma,sandra_sharma@protonmail.com,LightSpeed Comm,Cold Call,Sarah Johnson,Closed Won,464304.12,2025-04-10,2025-06-01,Converted,Middle East
+LEAD-0361,Kenneth Martinez,kmartinez@enterprise.org,OceanView Properties,LinkedIn,Priya Patel,Contacted,347644.21,2024-03-02,2024-06-23,Inactive,Middle East
+LEAD-0362,Frank Ramos,framos@work.io,SilverLine Media,Trade Show,Mike Chen,Negotiation,307706.4,2024-06-23,2025-04-02,Inactive,North America
+LEAD-0363,Nathan Ruiz,nathan53@enterprise.org,NexGen Software,Trade Show,James Wilson,Closed Won,366358.79,2024-09-09,2024-11-18,Converted,Asia Pacific
+LEAD-0364,Nicole Sanchez,nicole56@protonmail.com,LightSpeed Comm,Referral,Emma Davis,Closed Won,26890.98,2025-04-26,2025-09-09,Converted,North America
+LEAD-0365,Anya Wilson,anya55@corp.net,SkyBridge Telecom,Partner,Sarah Johnson,Qualified,281451.05,2024-01-13,2025-03-04,Inactive,Europe
+LEAD-0366,Carolyn Kelly,carolynk@protonmail.com,Falcon Industries,Website,James Wilson,Proposal Sent,232345.0,2025-08-07,2025-08-08,Inactive,Middle East
+LEAD-0367,Emma Williams,ewilliams@corp.net,Xenon Robotics,Email Campaign,James Wilson,Proposal Sent,,2024-03-13,2025-02-16,Active,Asia Pacific
+LEAD-0368,Diane Scott,dianes@biz.co,NexGen Software,Partner,Sarah Johnson,Proposal Sent,466460.42,2025-06-11,2025-09-05,Active,North America
+LEAD-0369,Joseph Nguyen,joseph_nguyen@work.io,CloudNova Inc,LinkedIn,Priya Patel,New Lead,38167.93,2024-07-28,2025-01-15,Active,North America
+LEAD-0370,Richard Cox,richard_cox@protonmail.com,WindRose Energy,Referral,Priya Patel,Contacted,341712.24,2024-10-10,2025-04-18,Active,Middle East
+LEAD-0371,Pamela Sharma,pamela65@outlook.com,IronClad Defense,Email Campaign,Emma Davis,Closed Won,187232.2,2024-03-08,2024-05-02,Converted,Middle East
+LEAD-0372,Alexander Lewis,alexander.lewis@corp.net,SilverLine Media,Website,Sarah Johnson,New Lead,78237.25,2024-06-03,2025-02-24,Inactive,North America
+LEAD-0373,Nicholas Gray,nicholas_gray@biz.co,EliteForce Security,LinkedIn,James Wilson,Qualified,149300.81,2024-03-05,2025-04-19,Active,Latin America
+LEAD-0374,Emily Watson,emilyw@corp.net,PulseRate Health,Email Campaign,Priya Patel,Qualified,267432.28,2025-07-15,2025-08-22,Active,Asia Pacific
+LEAD-0375,William Flores,williamf@protonmail.com,SilverLine Media,Partner,Sarah Johnson,New Lead,478325.86,2025-09-25,2025-09-30,Active,Europe
+LEAD-0376,David Howard,dhoward@yahoo.com,CloudNova Inc,LinkedIn,Emma Davis,New Lead,96325.81,2025-07-29,2025-09-07,Inactive,Europe
+LEAD-0377,Kimberly Lopez,kimberly_lopez@biz.co,IronClad Defense,LinkedIn,Sarah Johnson,Closed Won,252211.37,2024-05-28,2024-09-29,Converted,Asia Pacific
+LEAD-0378,Katherine Myers,katherine.myers@biz.co,Vertex Capital,Email Campaign,Priya Patel,Qualified,472284.72,2025-08-10,2025-09-30,Active,Middle East
+LEAD-0379,Stephanie Taylor,stephanie.taylor@enterprise.org,InnoVate Corp,Email Campaign,Emma Davis,New Lead,,2025-09-24,2025-09-27,Active,Asia Pacific
+LEAD-0380,Janet Ortiz,janet8@protonmail.com,Orbit Solutions,Partner,Priya Patel,New Lead,425478.44,2024-03-30,2025-05-07,Active,Asia Pacific
+LEAD-0381,Anna Mueller,anna78@biz.co,QuickSilver Trading,LinkedIn,James Wilson,New Lead,187966.83,2025-01-16,2025-04-14,Active,Middle East
+LEAD-0382,Anya Yamamoto,anya.yamamoto@protonmail.com,CrestView Enterprises,Email Campaign,James Wilson,Negotiation,403808.03,2025-03-10,2025-06-24,Active,Latin America
+LEAD-0383,Gregory Singh,gregory.singh@yahoo.com,EliteForce Security,Partner,Emma Davis,Closed Lost,,2025-08-27,2025-09-27,Inactive,Middle East
+LEAD-0384,Karen Jackson,karen.jackson@corp.net,RedRock Ventures,Cold Call,Mike Chen,Qualified,378845.66,2024-05-20,2025-07-20,Active,Latin America
+LEAD-0385,Laura Khan,laura.khan@company.com,TerraFirma Logistics,Cold Call,Emma Davis,Negotiation,396653.68,2024-06-06,2025-04-29,Active,Middle East
+LEAD-0386,Diane Weber,dianew@corp.net,SkyBridge Telecom,Email Campaign,Mike Chen,New Lead,249059.86,2024-03-09,2025-03-14,Active,Latin America
+LEAD-0387,Janet Lopez,janetl@enterprise.org,Horizon Digital,LinkedIn,Emma Davis,Negotiation,,2024-09-22,2024-10-21,Active,Middle East
+LEAD-0388,Patricia King,pking@work.io,RedRock Ventures,LinkedIn,James Wilson,Proposal Sent,29113.88,2024-10-25,2024-12-03,Active,Europe
+LEAD-0389,Carlos Mitchell,carlos.mitchell@yahoo.com,UltraVision Labs,Partner,Priya Patel,Contacted,184448.73,2025-07-01,2025-07-19,Active,Latin America
+LEAD-0390,Shirley Howard,shirleyh@enterprise.org,KeyStone Consulting,Website,Mike Chen,New Lead,98266.31,2025-07-26,2025-08-09,Active,North America
+LEAD-0391,Catherine Wilson,cwilson@gmail.com,TerraFirma Logistics,Email Campaign,Priya Patel,New Lead,493852.96,2025-06-19,2025-08-01,Active,Asia Pacific
+LEAD-0392,Ivan Brown,ivan.brown@protonmail.com,SkyBridge Telecom,Referral,Mike Chen,Contacted,490649.24,2025-03-11,2025-09-27,Active,North America
+LEAD-0393,Katherine Ward,katherine_ward@gmail.com,CloudNova Inc,Partner,Emma Davis,Proposal Sent,454722.0,2024-02-14,2025-01-20,Active,North America
+LEAD-0394,Thomas Brooks,thomas16@protonmail.com,MeridianX Group,Referral,Priya Patel,New Lead,374368.02,2024-10-11,2025-04-07,Active,Latin America
+LEAD-0395,Nicole Wood,nicole94@protonmail.com,Evergreen Partners,Website,Emma Davis,Negotiation,359326.76,2024-10-15,2025-07-17,Active,North America
+LEAD-0396,Emily Garcia,emily28@enterprise.org,LightSpeed Comm,Referral,James Wilson,Proposal Sent,418197.37,2025-01-23,2025-06-03,Active,North America
+LEAD-0397,Nicole Murphy,nicolem@outlook.com,HyperLoop Transit,Referral,James Wilson,Negotiation,280780.4,2024-02-11,2024-10-20,Active,Asia Pacific
+LEAD-0398,Jacob Morgan,jacob59@company.com,CrestView Enterprises,Referral,Emma Davis,Qualified,216841.02,2024-03-12,2025-07-12,Inactive,Asia Pacific
+LEAD-0399,Carlos Mitchell,carlos.mitchell@enterprise.org,ZenithWorks,Cold Call,Emma Davis,Proposal Sent,75966.94,2025-02-14,2025-03-12,Active,Europe
+LEAD-0400,Olivia Ramos,oliviar@protonmail.com,MapleStar Retail,Partner,James Wilson,New Lead,363974.25,2024-10-12,2025-08-05,Active,Middle East
+LEAD-0401,Michelle Turner,michelle_turner@corp.net,GreenLeaf Biotech,LinkedIn,Mike Chen,Negotiation,129091.48,2025-05-24,2025-06-27,Active,North America
+LEAD-0402,Rosa Ward,rosa_ward@gmail.com,Yellowstone Data,Trade Show,Priya Patel,New Lead,52685.15,2024-03-19,2025-09-02,Inactive,Middle East
+LEAD-0403,Brenda Jones,brendaj@enterprise.org,Quantum Leap AI,Trade Show,Priya Patel,Negotiation,13746.84,2024-02-02,2024-06-02,Active,Asia Pacific
+LEAD-0404,Sharon Cruz,sharon_cruz@enterprise.org,,Referral,Emma Davis,Proposal Sent,442926.61,2024-06-17,2024-08-24,Active,Middle East
+LEAD-0405,Jacob Ali,jacob.ali@enterprise.org,RiverBend Manufacturing,Trade Show,Emma Davis,Qualified,82373.92,2024-02-27,2025-07-17,Active,Middle East
+LEAD-0406,Jack Cooper,jackc@company.com,BrightWave Solutions,Trade Show,Sarah Johnson,New Lead,405728.95,2025-08-20,2025-08-20,Inactive,Asia Pacific
+LEAD-0407,Carolyn Davis,carolyn.davis@corp.net,WavePoint Energy,Cold Call,Priya Patel,New Lead,121137.93,2024-11-15,2024-12-18,Inactive,North America
+LEAD-0408,Timothy Thomas,tthomas@gmail.com,CloudNova Inc,Cold Call,James Wilson,Proposal Sent,136976.35,2025-04-25,2025-07-15,Active,Middle East
+LEAD-0409,Carlos Lopez,carlos42@outlook.com,GlobalTech Systems,Email Campaign,Mike Chen,Contacted,383627.43,2024-12-13,2025-05-15,Active,Middle East
+LEAD-0410,Jennifer Miller,jennifer_miller@outlook.com,IronClad Defense,Referral,Priya Patel,Contacted,288892.74,2024-08-19,2024-10-05,Active,Latin America
+LEAD-0411,Gary Taylor,gary13@work.io,KaleidoScope Media,Partner,Emma Davis,Qualified,398847.62,2024-11-05,2025-04-07,Active,Latin America
+LEAD-0412,Edward Rodriguez,erodriguez@corp.net,NorthStar Logistics,Trade Show,James Wilson,Proposal Sent,441043.8,2025-06-12,2025-08-24,Active,Middle East
+LEAD-0413,Rebecca Ramos,rebecca35@corp.net,UniCore Pharma,Email Campaign,Sarah Johnson,Qualified,78133.13,2024-06-03,2025-06-29,Active,Middle East
+LEAD-0414,Cynthia Nelson,cynthian@outlook.com,Atlas Financial,LinkedIn,Priya Patel,Proposal Sent,302609.97,2025-02-19,2025-03-29,Active,Europe
+LEAD-0415,James Scott,james_scott@enterprise.org,BlueShift Dynamics,Cold Call,Sarah Johnson,Contacted,19425.22,2024-10-11,2025-01-09,Active,North America
+LEAD-0416,Donna Taylor,donna_taylor@gmail.com,Falcon Industries,LinkedIn,Emma Davis,Contacted,,2025-02-20,2025-08-10,Active,North America
+LEAD-0417,Brian Anderson,banderson@protonmail.com,VistaPeak Mining,Trade Show,Sarah Johnson,Qualified,475088.88,2025-06-21,2025-07-02,Active,North America
+LEAD-0418,Michael Taylor,michaelt@work.io,VistaPeak Mining,Cold Call,Mike Chen,Closed Lost,57872.94,2024-08-07,2024-10-23,Inactive,Middle East
+LEAD-0419,Jacob Ali,jacoba@gmail.com,Xenon Robotics,Email Campaign,Sarah Johnson,Contacted,342955.53,2024-10-11,2024-12-24,Active,Asia Pacific
+LEAD-0420,Samuel Williams,samuel.williams@gmail.com,QuickSilver Trading,Partner,Sarah Johnson,Proposal Sent,123639.54,2025-07-19,2025-09-03,Inactive,North America
+LEAD-0421,Susan Taylor,staylor@enterprise.org,ZenithWorks,LinkedIn,Priya Patel,New Lead,121552.93,2024-08-03,2024-10-24,Inactive,Asia Pacific
+LEAD-0422,Sandra Myers,sandra_myers@gmail.com,Falcon Industries,Partner,James Wilson,Qualified,421375.92,2025-03-08,2025-04-02,Active,Asia Pacific
+LEAD-0423,Wei Sharma,wei.sharma@work.io,UniCore Pharma,Partner,Emma Davis,Negotiation,18538.69,2024-02-23,2024-08-29,Active,Europe
+LEAD-0424,Margaret Edwards,margaret_edwards@protonmail.com,UltraVision Labs,Trade Show,Sarah Johnson,New Lead,358214.15,2024-05-13,2025-04-29,Active,Asia Pacific
+LEAD-0425,Barbara Sanders,barbara_sanders@yahoo.com,RiverBend Manufacturing,Trade Show,Priya Patel,Negotiation,210175.73,2024-07-05,2025-01-14,Inactive,Latin America
+LEAD-0426,Nicole Collins,nicole.collins@gmail.com,PulseRate Health,Trade Show,Mike Chen,Closed Won,103141.77,2024-06-21,2024-07-10,Converted,Middle East
+LEAD-0427,Linda Davis,linda_davis@company.com,Xenon Robotics,Referral,Emma Davis,New Lead,220403.57,2025-04-09,2025-08-13,Active,Europe
+LEAD-0428,Aaron Diaz,aarond@company.com,Yellowstone Data,Referral,James Wilson,Closed Won,497627.69,2024-10-16,2025-04-14,Converted,Europe
+LEAD-0429,Rosa Alvarez,ralvarez@corp.net,BrightWave Solutions,LinkedIn,Priya Patel,Contacted,127917.39,2025-08-19,2025-09-17,Active,Middle East
+LEAD-0430,Christopher Hernandez,christopherh@corp.net,TrueNorth Advisors,Cold Call,James Wilson,Negotiation,52163.31,2024-03-01,2025-06-20,Active,Asia Pacific
+LEAD-0431,Donna Rodriguez,donna78@gmail.com,,Trade Show,Emma Davis,Qualified,337274.7,2024-05-15,2025-02-25,Active,Europe
+LEAD-0432,Katherine Carter,kcarter@biz.co,Vertex Capital,Cold Call,Mike Chen,New Lead,219300.18,2024-09-23,2024-10-15,Inactive,Middle East
+LEAD-0433,Emma Collins,emmac@corp.net,Quantum Leap AI,Trade Show,Priya Patel,Qualified,86666.99,2025-05-18,2025-06-25,Active,Middle East
+LEAD-0434,Henry Gonzalez,hgonzalez@yahoo.com,Luminar Technologies,Website,James Wilson,Contacted,221032.78,2025-05-21,2025-06-12,Inactive,Latin America
+LEAD-0435,Sandra Ali,sandra_ali@enterprise.org,UniCore Pharma,Partner,Mike Chen,New Lead,434745.69,2024-07-03,2025-07-21,Active,Asia Pacific
+LEAD-0436,Sharon Parker,sharon73@protonmail.com,Apex Dynamics,Trade Show,Emma Davis,New Lead,126847.93,2025-05-25,2025-08-17,Active,North America
+LEAD-0437,Ryan Evans,ryane@outlook.com,JetStream Networks,Website,Sarah Johnson,Qualified,242528.27,2024-10-02,2024-10-04,Active,North America
+LEAD-0438,Carlos Phillips,carlos84@enterprise.org,UniCore Pharma,Email Campaign,Emma Davis,New Lead,401771.19,2024-10-16,2024-11-13,Active,Latin America
+LEAD-0439,Matthew Green,matthew_green@outlook.com,Luminar Technologies,Referral,James Wilson,New Lead,85655.64,2025-02-16,2025-08-27,Inactive,Europe
+LEAD-0440,Angela Mitchell,angelam@enterprise.org,VistaPeak Mining,Partner,Priya Patel,Closed Won,182726.91,2024-04-08,2024-07-18,Converted,Latin America
+LEAD-0441,Suki Rodriguez,suki_rodriguez@enterprise.org,EliteForce Security,LinkedIn,Emma Davis,Proposal Sent,214155.49,2025-01-12,2025-08-22,Active,North America
+LEAD-0442,Lisa Lopez,lisa6@work.io,RiverBend Manufacturing,Referral,Mike Chen,Closed Lost,325376.57,2024-03-26,2024-06-15,Inactive,Middle East
+LEAD-0443,Catherine Yamamoto,catherine.yamamoto@enterprise.org,InnoVate Corp,Email Campaign,Priya Patel,Closed Won,151263.41,2024-02-18,2024-07-15,Converted,North America
+LEAD-0444,Jessica Ramos,jessica6@outlook.com,Atlas Financial,Website,James Wilson,Proposal Sent,130423.26,2024-09-17,2025-06-01,Active,Middle East
+LEAD-0445,Raymond Bennett,rbennett@corp.net,,Cold Call,Priya Patel,Contacted,379890.36,2025-04-05,2025-06-11,Active,Europe
+LEAD-0446,Alexander Bennett,abennett@outlook.com,MapleStar Retail,LinkedIn,Sarah Johnson,Qualified,,2025-02-08,2025-03-23,Active,Middle East
+LEAD-0447,Nathan Castillo,nathan_castillo@enterprise.org,NorthStar Logistics,LinkedIn,James Wilson,Negotiation,71881.4,2024-07-14,2024-07-22,Active,Europe
+LEAD-0448,Pamela Kim,pkim@enterprise.org,PulseRate Health,Referral,James Wilson,Closed Won,271598.35,2024-03-29,2024-06-21,Converted,Middle East
+LEAD-0449,Anthony Kelly,anthony_kelly@corp.net,,Referral,Mike Chen,Negotiation,245098.18,2024-01-21,2025-09-11,Active,Asia Pacific
+LEAD-0450,Michelle James,michelle_james@gmail.com,GlobalTech Systems,Email Campaign,James Wilson,Closed Lost,369853.77,2025-09-02,2025-09-26,Inactive,Asia Pacific
+LEAD-0451,Margaret Hall,margaret_hall@corp.net,LightSpeed Comm,Email Campaign,Emma Davis,Closed Lost,434478.93,2024-08-25,2024-09-16,Inactive,Latin America
+LEAD-0452,Jack Anderson,jack_anderson@work.io,RedRock Ventures,Email Campaign,James Wilson,Closed Won,313234.86,2024-12-21,2025-04-21,Converted,Middle East
+LEAD-0453,Laura Yamamoto,lyamamoto@company.com,EliteForce Security,LinkedIn,James Wilson,Contacted,454989.73,2024-12-13,2025-08-09,Active,Asia Pacific
+LEAD-0454,Michael Cox,michael_cox@corp.net,RiverBend Manufacturing,Email Campaign,Priya Patel,Negotiation,423042.99,2025-09-28,2025-09-30,Active,Middle East
+LEAD-0455,Jonathan Brown,jbrown@protonmail.com,FusionGrid Power,Website,James Wilson,Closed Lost,121185.86,2025-07-24,2025-08-03,Inactive,North America
+LEAD-0456,Helen Baker,helenb@work.io,Luminar Technologies,Partner,Emma Davis,New Lead,,2025-03-16,2025-04-14,Active,Europe
+LEAD-0457,George Jackson,georgej@work.io,Zephyr Aerospace,Website,Emma Davis,Contacted,346617.11,2025-06-11,2025-06-24,Active,Middle East
+LEAD-0458,Aaron Rodriguez,aaron.rodriguez@outlook.com,NorthStar Logistics,Partner,Sarah Johnson,Negotiation,,2024-04-17,2024-08-15,Inactive,Asia Pacific
+LEAD-0459,Linda Lopez,lindal@enterprise.org,FusionGrid Power,Email Campaign,Sarah Johnson,New Lead,410484.59,2024-05-05,2025-07-28,Inactive,North America
+LEAD-0460,Sharon Carter,sharon_carter@work.io,KeyStone Consulting,Website,Priya Patel,Contacted,183518.49,2024-09-08,2025-09-28,Active,Europe
+LEAD-0461,Debra Lee,debra_lee@corp.net,DuoTech Solutions,Partner,Emma Davis,Negotiation,19732.65,2024-05-29,2025-05-31,Active,North America
+LEAD-0462,Katherine Sharma,katherines@work.io,Zephyr Aerospace,Referral,James Wilson,New Lead,331787.21,2024-06-03,2024-07-02,Inactive,Latin America
+LEAD-0463,Lisa Miller,lisa_miller@corp.net,SkyBridge Telecom,Trade Show,Priya Patel,Negotiation,175357.89,2024-10-13,2025-08-21,Inactive,Middle East
+LEAD-0464,Richard Gray,rgray@biz.co,NorthStar Logistics,Email Campaign,James Wilson,Proposal Sent,391873.73,2025-02-18,2025-05-06,Active,Latin America
+LEAD-0465,Raj James,raj_james@yahoo.com,IronClad Defense,LinkedIn,Mike Chen,New Lead,263061.25,2024-06-12,2025-03-15,Active,Europe
+LEAD-0466,Raj Turner,raj_turner@biz.co,DataStream Analytics,Partner,Priya Patel,Contacted,66287.44,2024-05-07,2024-05-12,Active,Europe
+LEAD-0467,Sandra Hall,sandra96@biz.co,Orbit Solutions,LinkedIn,Priya Patel,Contacted,358852.96,2024-05-23,2025-02-13,Active,North America
+LEAD-0468,Larry Gray,larry42@protonmail.com,Xenon Robotics,Cold Call,Sarah Johnson,New Lead,208966.21,2024-04-04,2025-06-15,Active,Middle East
+LEAD-0469,Leo Ortiz,leoo@biz.co,Jupiter Analytics,Trade Show,James Wilson,Closed Won,320048.27,2025-03-26,2025-08-05,Converted,Middle East
+LEAD-0470,Barbara Lewis,blewis@biz.co,TrueNorth Advisors,Cold Call,Mike Chen,Closed Lost,266924.85,2024-08-05,2024-12-06,Inactive,Middle East
+LEAD-0471,Joseph Smith,jsmith@biz.co,Horizon Digital,Trade Show,James Wilson,New Lead,148347.33,2025-06-19,2025-08-05,Active,Asia Pacific
+LEAD-0472,Jason Foster,jasonf@enterprise.org,,Referral,Mike Chen,Negotiation,468726.22,2024-11-08,2025-02-26,Active,Middle East
+LEAD-0473,Angela Nguyen,angela.nguyen@biz.co,CloudNova Inc,Cold Call,James Wilson,Proposal Sent,450642.21,2025-01-21,2025-07-24,Active,Europe
+LEAD-0474,Mary Murphy,mmurphy@biz.co,WindRose Energy,Cold Call,James Wilson,New Lead,49210.92,2025-09-30,2025-09-30,Inactive,Asia Pacific
+LEAD-0475,Brian Taylor,brian.taylor@enterprise.org,PulseRate Health,Website,Mike Chen,Proposal Sent,399098.6,2024-11-12,2025-01-14,Active,North America
+LEAD-0476,Ryan Cook,ryan25@biz.co,DataStream Analytics,Trade Show,Emma Davis,New Lead,448947.82,2024-05-03,2024-11-03,Inactive,Asia Pacific
+LEAD-0477,Alexander Martinez,amartinez@enterprise.org,IronClad Defense,Trade Show,Priya Patel,Qualified,,2024-01-24,2024-07-26,Active,Latin America
+LEAD-0478,William Parker,william_parker@company.com,GlobalTech Systems,Trade Show,Mike Chen,Contacted,385310.82,2024-06-06,2024-12-31,Active,North America
+LEAD-0479,Jason Foster,jasonf@yahoo.com,,Website,Priya Patel,Qualified,209347.29,2024-11-27,2025-01-27,Active,Europe
+LEAD-0480,Benjamin Kelly,benjamin97@protonmail.com,WindRose Energy,Trade Show,James Wilson,Closed Lost,162576.54,2025-07-20,2025-09-17,Inactive,North America
+LEAD-0481,Ruth Price,ruth.price@corp.net,BrightWave Solutions,LinkedIn,Emma Davis,Closed Lost,126926.47,2025-07-22,2025-08-14,Inactive,Asia Pacific
+LEAD-0482,Justin Anderson,justin_anderson@enterprise.org,OceanView Properties,Trade Show,Mike Chen,Negotiation,272517.68,2024-06-21,2025-03-23,Inactive,Latin America
+LEAD-0483,Katherine Perez,katherine.perez@gmail.com,NorthStar Logistics,LinkedIn,Mike Chen,New Lead,243682.2,2025-09-04,2025-09-25,Active,Asia Pacific
+LEAD-0484,Fatima Mueller,fmueller@biz.co,KeyStone Consulting,Email Campaign,Emma Davis,Proposal Sent,200675.93,2024-05-05,2025-02-15,Inactive,Europe
+LEAD-0485,Patrick Lopez,patrick79@work.io,Vertex Capital,Email Campaign,Priya Patel,Closed Lost,140141.5,2024-11-25,2025-02-27,Inactive,Europe
+LEAD-0486,Margaret Young,margaret59@work.io,,Email Campaign,Mike Chen,Proposal Sent,,2025-05-02,2025-05-02,Active,Middle East
+LEAD-0487,Aaron Ortiz,aaron_ortiz@corp.net,PulseRate Health,Email Campaign,Sarah Johnson,Qualified,408948.02,2025-03-31,2025-06-29,Inactive,Middle East
+LEAD-0488,Helen Myers,helenm@corp.net,Zephyr Aerospace,Partner,Sarah Johnson,New Lead,100530.47,2024-01-10,2024-01-30,Inactive,Asia Pacific
+LEAD-0489,Christine Sharma,christine.sharma@company.com,Orbit Solutions,Referral,James Wilson,Closed Lost,,2025-05-19,2025-07-18,Inactive,North America
+LEAD-0490,Sandra Ortiz,sandra_ortiz@outlook.com,KaleidoScope Media,Trade Show,James Wilson,New Lead,370713.34,2025-09-09,2025-09-11,Active,North America
+LEAD-0491,Rachel Hall,rachelh@protonmail.com,UniCore Pharma,Partner,Priya Patel,New Lead,496015.92,2025-06-29,2025-09-24,Active,Middle East
+LEAD-0492,Donna Walker,donna_walker@gmail.com,UltraVision Labs,Cold Call,James Wilson,Contacted,235960.43,2025-01-05,2025-01-27,Inactive,Europe
+LEAD-0493,Angela Sanchez,angelas@corp.net,UltraVision Labs,Website,James Wilson,New Lead,288050.71,2024-01-26,2024-09-13,Inactive,Middle East
+LEAD-0494,Michelle Ross,mross@protonmail.com,TerraFirma Logistics,Website,Sarah Johnson,New Lead,16891.65,2024-12-08,2025-04-13,Active,Europe
+LEAD-0495,Karen Thompson,karen.thompson@work.io,Pinnacle Health,Website,Emma Davis,Proposal Sent,314547.63,2025-08-15,2025-08-18,Inactive,Middle East
+LEAD-0496,Ali Reyes,ali.reyes@yahoo.com,CrestView Enterprises,Website,Priya Patel,Proposal Sent,55404.65,2024-02-27,2024-12-24,Active,Middle East
+LEAD-0497,Wei Mendoza,wei13@corp.net,MapleStar Retail,Partner,Emma Davis,New Lead,398606.52,2025-09-27,2025-09-29,Active,North America
+LEAD-0498,Samuel Khan,samuel59@work.io,GlobalTech Systems,Website,Sarah Johnson,Proposal Sent,,2024-07-17,2024-09-19,Active,Asia Pacific
+LEAD-0499,Benjamin Martin,benjamin_martin@enterprise.org,CrestView Enterprises,Referral,Mike Chen,New Lead,,2024-05-10,2024-12-19,Active,Asia Pacific
+LEAD-0500,Ivan Cruz,ivan40@biz.co,JetStream Networks,Cold Call,Priya Patel,Proposal Sent,485284.17,2025-06-14,2025-09-08,Active,Europe

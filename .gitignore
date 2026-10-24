@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv/
+backend/dashboard.db
+backend/dashboard.db-wal
+backend/dashboard.db-shm
+
+# Node / Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+*.local
+
+# Secrets & Environment variables
+.env
+*.env
+.env.*
+*.pem
+*.key
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+DEMO_SCRIPT_AND_SUBMISSION.md

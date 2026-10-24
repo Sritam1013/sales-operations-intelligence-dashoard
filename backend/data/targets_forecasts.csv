@@ -1,0 +1,118 @@
+period,owner,region,account_segment,target_revenue,forecast_revenue,actual_revenue,manual_category,reference_values,campaign_mapping
+2024-01,Sarah Johnson,Latin America,SMB,521860.86,547586.56,494461.45,At Risk,Initial target,
+2024-03,Sarah Johnson,Latin America,SMB,481815.86,415463.04,487520.28,On Track,Pipeline-based,
+2024-04,Sarah Johnson,Latin America,SMB,506537.99,495949.75,621443.76,Exceeded,Carry-over from previous,
+2024-05,Sarah Johnson,Latin America,SMB,493996.93,461877.08,642452.02,Exceeded,Carry-over from previous,Partner Drive
+2024-09,Sarah Johnson,Latin America,SMB,476108.84,506560.35,444831.07,At Risk,Manager override,
+2024-10,Sarah Johnson,Latin America,SMB,480057.54,449929.42,334237.61,Below Target,Conservative estimate,Year-Round
+2024-11,Sarah Johnson,Latin America,SMB,451455.33,506193.77,464925.35,On Track,Manager override,Summer Push
+2025-03,Sarah Johnson,Latin America,SMB,526653.94,586049.82,695353.59,Exceeded,Initial target,Summer Push
+2025-04,Sarah Johnson,Latin America,SMB,488606.05,496563.06,446072.53,At Risk,Historical trend,Year-Round
+2024-04,Sarah Johnson,Europe,Mid-Market,533206.48,528148.3,529639.6,On Track,Q1 adjusted,Year-Round
+2024-05,Sarah Johnson,Europe,Mid-Market,535010.51,458999.77,684513.23,Exceeded,Initial target,Partner Drive
+2024-06,Sarah Johnson,Europe,Mid-Market,497679.23,509671.67,437550.73,At Risk,Initial target,Partner Drive
+2024-09,Sarah Johnson,Europe,Mid-Market,385799.55,425742.23,321563.99,At Risk,Historical trend,
+2024-12,Sarah Johnson,Europe,Mid-Market,466951.13,404521.57,311841.39,Below Target,Stretch goal,Spring Campaign
+2025-01,Sarah Johnson,Europe,Mid-Market,503555.83,552190.28,526773.91,On Track,Board approved,Spring Campaign
+2025-02,Sarah Johnson,Europe,Mid-Market,536057.81,564106.45,643215.13,Exceeded,Carry-over from previous,Partner Drive
+2025-03,Sarah Johnson,Europe,Mid-Market,524190.9,597673.84,420926.56,At Risk,Initial target,Summer Push
+2025-05,Sarah Johnson,Europe,Mid-Market,506906.69,540232.06,376523.37,Below Target,Board approved,Summer Push
+2024-01,Sarah Johnson,Middle East,Enterprise,64224.61,62118.95,43158.25,Below Target,Revised mid-quarter,Summer Push
+2024-02,Sarah Johnson,Middle East,Enterprise,70923.51,71917.56,94279.87,Exceeded,Board approved,Partner Drive
+2024-04,Sarah Johnson,Middle East,Enterprise,65488.23,68164.02,51675.89,Below Target,Carry-over from previous,Summer Push
+2024-05,Sarah Johnson,Middle East,Enterprise,64297.88,68148.59,54392.59,At Risk,Manager override,Spring Campaign
+2024-08,Sarah Johnson,Middle East,Enterprise,55725.83,58529.39,54453.28,On Track,Conservative estimate,Year-Round
+2025-04,Sarah Johnson,Middle East,Enterprise,70548.73,63102.31,66446.01,At Risk,Manager override,Spring Campaign
+2025-05,Sarah Johnson,Middle East,Enterprise,61619.57,64302.04,72561.45,Exceeded,Stretch goal,
+2025-06,Sarah Johnson,Middle East,Enterprise,66750.32,66107.66,76123.44,Exceeded,Carry-over from previous,
+2025-07,Sarah Johnson,Middle East,Enterprise,56389.32,62408.99,,At Risk,Conservative estimate,Partner Drive
+2024-05,Mike Chen,Asia Pacific,Enterprise,394411.26,343320.42,527617.68,Exceeded,Manager override,Year-Round
+2024-06,Mike Chen,Asia Pacific,Enterprise,357310.16,365461.01,395840.19,Exceeded,Stretch goal,Summer Push
+2024-11,Mike Chen,Asia Pacific,Enterprise,334830.98,342939.72,359832.73,On Track,Q1 adjusted,Spring Campaign
+2024-12,Mike Chen,Asia Pacific,Enterprise,370681.44,332780.71,268053.29,Below Target,Stretch goal,Year-Round
+2025-01,Mike Chen,Asia Pacific,Enterprise,382516.13,437750.89,538770.05,Exceeded,Carry-over from previous,Spring Campaign
+2025-02,Mike Chen,Asia Pacific,Enterprise,393461.33,379778.73,426699.04,On Track,Initial target,
+2025-03,Mike Chen,Asia Pacific,Enterprise,351558.07,388134.37,243212.79,Below Target,Carry-over from previous,Spring Campaign
+2025-04,Mike Chen,Asia Pacific,Enterprise,362831.01,384462.17,336214.93,At Risk,Revised mid-quarter,Partner Drive
+2025-08,Mike Chen,Asia Pacific,Enterprise,297059.88,296267.0,,At Risk,Carry-over from previous,Summer Push
+2024-01,Mike Chen,Middle East,Strategic,461250.09,448523.37,519618.13,Exceeded,Pipeline-based,Partner Drive
+2024-03,Mike Chen,Middle East,Strategic,466367.56,425440.28,603092.79,Exceeded,Historical trend,Partner Drive
+2024-04,Mike Chen,Middle East,Strategic,525838.4,573415.61,518214.98,On Track,Manager override,Spring Campaign
+2024-07,Mike Chen,Middle East,Strategic,393154.42,426460.97,343685.16,At Risk,Manager override,Spring Campaign
+2025-01,Mike Chen,Middle East,Strategic,478427.71,409899.04,676764.97,Exceeded,Conservative estimate,Q4 Blitz
+2025-05,Mike Chen,Middle East,Strategic,493873.89,429860.84,598103.2,Exceeded,Manager override,Partner Drive
+2025-06,Mike Chen,Middle East,Strategic,428604.36,430887.93,450038.81,On Track,Historical trend,Spring Campaign
+2025-07,Mike Chen,Middle East,Strategic,446344.03,394238.87,,On Track,Marketing aligned,Q4 Blitz
+2025-08,Mike Chen,Middle East,Strategic,374029.65,355856.89,,On Track,Carry-over from previous,Spring Campaign
+2024-02,Mike Chen,Latin America,Mid-Market,419267.4,360825.14,319895.61,Below Target,Board approved,Partner Drive
+2024-03,Mike Chen,Latin America,Mid-Market,434266.29,431500.64,352184.07,At Risk,Q1 adjusted,
+2024-08,Mike Chen,Latin America,Mid-Market,334432.7,306866.59,313359.41,At Risk,Q1 adjusted,Summer Push
+2024-10,Mike Chen,Latin America,Mid-Market,363524.73,311870.1,502011.08,Exceeded,Marketing aligned,Year-Round
+2024-11,Mike Chen,Latin America,Mid-Market,360852.17,308683.22,328529.95,At Risk,Conservative estimate,Summer Push
+2025-01,Mike Chen,Latin America,Mid-Market,400201.77,406150.16,276664.85,Below Target,Stretch goal,Q4 Blitz
+2025-02,Mike Chen,Latin America,Mid-Market,373728.02,366611.29,247910.18,Below Target,Q1 adjusted,
+2025-04,Mike Chen,Latin America,Mid-Market,376393.86,404338.36,518003.4,Exceeded,Revised mid-quarter,Spring Campaign
+2025-06,Mike Chen,Latin America,Mid-Market,389299.24,339851.81,326837.93,At Risk,Stretch goal,Q4 Blitz
+2024-02,Priya Patel,Asia Pacific,Mid-Market,161352.7,176524.28,198024.09,Exceeded,Historical trend,Q4 Blitz
+2024-03,Priya Patel,Asia Pacific,Mid-Market,150395.53,157327.74,170326.77,Exceeded,Historical trend,Partner Drive
+2024-04,Priya Patel,Asia Pacific,Mid-Market,142726.7,136159.94,148592.82,On Track,Board approved,Q4 Blitz
+2024-05,Priya Patel,Asia Pacific,Mid-Market,140889.63,125552.31,139961.53,On Track,Board approved,Summer Push
+2024-09,Priya Patel,Asia Pacific,Mid-Market,125097.34,136970.82,96462.25,Below Target,Marketing aligned,Year-Round
+2024-10,Priya Patel,Asia Pacific,Mid-Market,137168.7,155811.78,95997.11,Below Target,Initial target,
+2025-01,Priya Patel,Asia Pacific,Mid-Market,152412.44,143286.57,97294.13,Below Target,Pipeline-based,Year-Round
+2025-04,Priya Patel,Asia Pacific,Mid-Market,140075.44,135141.49,127312.2,At Risk,Marketing aligned,Summer Push
+2025-08,Priya Patel,Asia Pacific,Mid-Market,128488.95,111230.04,,On Track,Stretch goal,
+2024-01,Priya Patel,Latin America,Enterprise,253868.24,271326.21,306686.08,Exceeded,Conservative estimate,Partner Drive
+2024-07,Priya Patel,Latin America,Enterprise,254158.87,287133.9,258763.64,On Track,Conservative estimate,Year-Round
+2024-09,Priya Patel,Latin America,Enterprise,224006.92,228597.03,223922.05,On Track,Revised mid-quarter,Year-Round
+2024-10,Priya Patel,Latin America,Enterprise,207589.08,177396.29,279721.23,Exceeded,Historical trend,Summer Push
+2024-11,Priya Patel,Latin America,Enterprise,223550.18,228317.34,160101.41,Below Target,Marketing aligned,Q4 Blitz
+2024-12,Priya Patel,Latin America,Enterprise,260557.66,268999.66,175346.27,Below Target,Carry-over from previous,Q4 Blitz
+2025-02,Priya Patel,Latin America,Enterprise,263584.87,225412.51,183270.96,Below Target,Marketing aligned,Year-Round
+2025-08,Priya Patel,Latin America,Enterprise,239519.45,219244.79,,Pending Review,Initial target,Spring Campaign
+2025-09,Priya Patel,Latin America,Enterprise,238334.32,242012.86,,Pending Review,Initial target,Q4 Blitz
+2024-02,Priya Patel,North America,SMB,75855.0,84060.32,76737.97,On Track,Q1 adjusted,Summer Push
+2024-04,Priya Patel,North America,SMB,79765.39,91538.07,68443.69,At Risk,Historical trend,Q4 Blitz
+2024-05,Priya Patel,North America,SMB,73778.78,76004.96,64611.11,At Risk,Historical trend,Spring Campaign
+2024-06,Priya Patel,North America,SMB,61636.1,56163.59,63052.83,On Track,Board approved,Year-Round
+2024-08,Priya Patel,North America,SMB,63240.29,70371.01,48644.31,Below Target,Stretch goal,Q4 Blitz
+2024-11,Priya Patel,North America,SMB,70036.93,78386.57,66144.99,At Risk,Q1 adjusted,Partner Drive
+2025-04,Priya Patel,North America,SMB,68186.33,58870.93,62732.67,At Risk,Manager override,
+2025-08,Priya Patel,North America,SMB,57946.69,54697.72,,At Risk,Manager override,Partner Drive
+2025-09,Priya Patel,North America,SMB,63172.56,71510.2,,On Track,Marketing aligned,Spring Campaign
+2024-02,James Wilson,Latin America,Mid-Market,471381.99,407947.86,486390.58,On Track,Initial target,Q4 Blitz
+2024-03,James Wilson,Latin America,Mid-Market,445613.67,455672.56,365793.73,At Risk,Revised mid-quarter,Q4 Blitz
+2024-08,James Wilson,Latin America,Mid-Market,390574.12,419654.9,283959.2,Below Target,Stretch goal,Year-Round
+2024-09,James Wilson,Latin America,Mid-Market,355636.76,362086.99,269590.08,Below Target,Revised mid-quarter,Partner Drive
+2024-12,James Wilson,Latin America,Mid-Market,427014.57,416618.93,477762.02,Exceeded,Revised mid-quarter,Partner Drive
+2025-01,James Wilson,Latin America,Mid-Market,478034.26,464785.65,518590.47,On Track,Stretch goal,Q4 Blitz
+2025-02,James Wilson,Latin America,Mid-Market,451326.46,394663.23,451780.13,On Track,Pipeline-based,
+2025-05,James Wilson,Latin America,Mid-Market,465004.63,503038.98,425009.1,At Risk,Board approved,
+2025-08,James Wilson,Latin America,Mid-Market,387642.7,418519.55,,At Risk,Carry-over from previous,Spring Campaign
+2024-01,James Wilson,Asia Pacific,Enterprise,117161.16,108073.02,102822.47,At Risk,Manager override,Q4 Blitz
+2024-03,James Wilson,Asia Pacific,Enterprise,120657.85,106460.23,126136.28,On Track,Pipeline-based,Q4 Blitz
+2024-05,James Wilson,Asia Pacific,Enterprise,121979.9,126767.56,149669.96,Exceeded,Carry-over from previous,Year-Round
+2024-06,James Wilson,Asia Pacific,Enterprise,112366.05,119907.19,127808.72,Exceeded,Carry-over from previous,Spring Campaign
+2024-07,James Wilson,Asia Pacific,Enterprise,110055.28,113144.09,108189.0,On Track,Pipeline-based,Q4 Blitz
+2025-01,James Wilson,Asia Pacific,Enterprise,105433.46,112472.19,109071.54,On Track,Initial target,
+2025-02,James Wilson,Asia Pacific,Enterprise,116494.5,100707.91,132038.75,Exceeded,Initial target,Year-Round
+2025-03,James Wilson,Asia Pacific,Enterprise,113904.15,107704.74,105600.23,At Risk,Revised mid-quarter,
+2025-07,James Wilson,Asia Pacific,Enterprise,100569.31,93879.12,,At Risk,Initial target,Q4 Blitz
+2024-03,Emma Davis,Middle East,Mid-Market,494891.54,510654.36,375836.58,Below Target,Board approved,Summer Push
+2024-04,Emma Davis,Middle East,Mid-Market,483462.65,532600.34,586876.1,Exceeded,Historical trend,Spring Campaign
+2024-05,Emma Davis,Middle East,Mid-Market,500037.64,454304.1,533290.59,On Track,Revised mid-quarter,
+2024-08,Emma Davis,Middle East,Mid-Market,412873.59,468348.91,432038.31,On Track,Initial target,Year-Round
+2024-09,Emma Davis,Middle East,Mid-Market,460939.17,490842.72,553673.01,Exceeded,Initial target,Year-Round
+2024-10,Emma Davis,Middle East,Mid-Market,396039.16,352888.88,393667.05,On Track,Stretch goal,
+2025-03,Emma Davis,Middle East,Mid-Market,551479.4,591893.61,490072.98,At Risk,Stretch goal,Partner Drive
+2025-04,Emma Davis,Middle East,Mid-Market,490577.18,509801.52,532834.08,On Track,Stretch goal,
+2025-05,Emma Davis,Middle East,Mid-Market,535209.26,461086.55,407043.51,Below Target,Revised mid-quarter,Q4 Blitz
+2024-01,Emma Davis,Latin America,Enterprise,273778.57,248079.37,261874.66,On Track,Board approved,
+2024-04,Emma Davis,Latin America,Enterprise,309828.6,343025.82,335935.84,On Track,Historical trend,Year-Round
+2024-05,Emma Davis,Latin America,Enterprise,280738.24,298423.95,193300.16,Below Target,Marketing aligned,Year-Round
+2024-08,Emma Davis,Latin America,Enterprise,242909.58,252945.24,244389.44,On Track,Revised mid-quarter,Q4 Blitz
+2024-11,Emma Davis,Latin America,Enterprise,267111.85,280572.35,282964.73,On Track,Historical trend,Q4 Blitz
+2025-01,Emma Davis,Latin America,Enterprise,273583.69,240469.11,209239.17,Below Target,Conservative estimate,Q4 Blitz
+2025-06,Emma Davis,Latin America,Enterprise,286104.45,271118.05,324075.95,Exceeded,Stretch goal,
+2025-07,Emma Davis,Latin America,Enterprise,256455.97,244729.15,,On Track,Pipeline-based,Year-Round
+2025-09,Emma Davis,Latin America,Enterprise,240154.52,253643.18,,Pending Review,Revised mid-quarter,Partner Drive
