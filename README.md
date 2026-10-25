@@ -4,10 +4,6 @@ This is my submission for the Braahmam International two-day assignment. It's a 
 
 Everything in here is made-up sample data. There's no real company, client or financial data anywhere in the repo, and it's a prototype, not something I'd put in front of real users as-is.
 
-- Live demo: TODO add hosted URL
-- Demo video (about 4 min): TODO add link
-- Repo: TODO add link
-
 ## What's in it
 
 Three sources, each in a different format, to mimic the systems in the brief:
